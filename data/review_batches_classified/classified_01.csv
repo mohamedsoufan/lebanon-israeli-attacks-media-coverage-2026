@@ -1,0 +1,42 @@
+﻿article_id,include,exclusion_reason,event_date,event_time_if_known,location_raw,town,district,governorate,deaths_reported,injuries_reported,attack_type,target_description,preliminary_or_final,location_ambiguous,casualty_count_ambiguous,notes
+416523,0,"General/cumulative daily toll (Dahiye+South combined), not a single-incident report",,,,,,,,,,,,,,
+416778,0,Faction (Islamic Jihad) statement identifying a person killed in an already-reported dawn strike on Beirut southern suburb; no new incident location/toll,,,,,,,,,,,,,,
+416867,0,"Describes a Hezbollah/Islamic Resistance attack on Israel (Ramat David airbase), not an Israeli attack on Lebanon",,,,,,,,,,,,,,
+416998,1,,2026-03-03,,صديقين,صديقين (Saddiqine/Siddiqine),,South Lebanon,2,0,airstrike,second strike on the town (double-strike pattern); 2 dead were Islamic Health Authority personnel,preliminary,0,0,district uncertain - verify Siddiqine's caza
+417044,1,,2026-03-03,,قبريحا - مرجعيون,قبريحا (Qabrikha),Marjayoun,Nabatieh,2,2,strike on vehicle,motorcycle,preliminary,0,0,
+417088,0,"General cumulative daily toll (Disaster Management Unit), not a single-incident report",,,,,,,,,,,,,,
+417146,0,"General cumulative toll bulletin (MoPH), Mon dawn-Tue evening",,,,,,,,,,,,,,
+417153,1,,2026-03-04,dawn,بعلبك - حي المتربة,بعلبك (Baalbek city),Baalbek,Baalbek-Hermel,4,6,airstrike,"residential building (4-story, in a residential complex)",preliminary,0,0,first report in chain w/ 417170 417196 - toll rises to 5 then 6
+417154,1,,2026-03-04,past midnight,عرمون والسعديات,عرمون / السعديات,Aley,Mount Lebanon,,,strikes on apartment/residential complex,apartment (Aramoun) and residential complex (Saadiyat),preliminary,1,1,combined toll for two towns confirmed later in 417202; district/governorate uncertain - verify
+417170,1,,2026-03-04,,بعلبك - حي المتربة,بعلبك (Baalbek city),Baalbek,Baalbek-Hermel,5,15,airstrike,residential building,preliminary,0,0,update to 417153 chain; 3 missing
+417196,1,,2026-03-04,,بعلبك - حي المتربة,بعلبك (Baalbek city),Baalbek,Baalbek-Hermel,6,15,airstrike,residential building,preliminary,0,0,update to 417153/417170 chain; missing count now unspecified
+417202,1,,2026-03-04,,عرمون والسعديات,عرمون / السعديات,Aley,Mount Lebanon,6,8,strikes on apartment/residential complex,apartment and residential complex,preliminary,1,0,MoPH combined toll confirming 417154 chain
+417435,0,"General cumulative toll bulletin (MoPH), Mon dawn-Wed evening",,,,,,,,,,,,,,
+417491,1,,2026-03-04,,طريق المطار,طريق المطار (Airport Road),Baabda,Mount Lebanon,3,6,airstrike,two raids on Airport Road area (target unspecified),preliminary,1,0,combined toll for 'two raids'; district/governorate uncertain - verify (Beirut southern suburbs area)
+417496,1,,2026-03-05,dawn,طريق صور-الناقورة قرب القليلة,القليلة (Qlaile),Tyre,South Lebanon,3,0,drone strike,car/vehicle,preliminary,0,0,
+417497,1,,2026-03-05,,مخيم البداوي - طرابلس,مخيم البداوي (Beddawi camp),Tripoli,North Lebanon,2,1,airstrike,residential apartment,preliminary,0,0,chain continues in 417511/417514
+417511,1,,2026-03-05,,مخيم البداوي,مخيم البداوي (Beddawi camp),Tripoli,North Lebanon,2,1,drone strike,home of named Hamas military commander (per source attribution),preliminary,0,0,update/detail to 417497 chain
+417514,1,,2026-03-05,,مخيم البداوي - طرابلس,مخيم البداوي (Beddawi camp),Tripoli,North Lebanon,2,1,airstrike,residential apartment,preliminary,0,0,duplicate MoPH confirmation of 417497 chain
+417516,1,,2026-03-05,dawn,بين بلدتي زوطر وكفرتبنيت (ضمن حملة غارات واسعة في قضاء النبطية),زوطر / كفرتبنيت,Nabatieh,Nabatieh,3,0,airstrike,"area between the two towns; other strikes in same sweep (Aaba, Kfarremen, Kfour, Toul) reported without deaths in this article",preliminary,1,0,possible overlap with 417534's Zawtar al-Sharqiya family (4 dead) - flag for merge review
+417531,1,,2026-03-05,dawn,الكفور,الكفور (Kfour),Nabatieh,Nabatieh,2,0,airstrike,residence (mukhtar's home),preliminary,0,0,named: mukhtar Tawfiq Safa + wife
+417534,1,,2026-03-05,dawn,زوطر الشرقية - مدخل شمالي قرب كفرتبنيت,زوطر الشرقية (Zawtar al-Sharqiya),Nabatieh,Nabatieh,4,0,airstrike,residence,preliminary,0,0,family of 4 named; flag for merge review vs 417516's ambiguous 3-dead figure for same general area
+417566,1,,2026-03-05,,أوتوستراد زحلة الكرك,أوتوستراد زحلة الكرك (Zahle-Kark highway),Zahle,Bekaa,2,2,strike on vehicle,car on highway,preliminary,0,0,possible overlap with 417813 (ISF officer killed same area/date) - flag for merge review
+417612,0,"General cumulative toll bulletin (MoPH), Mon dawn-Wed midnight",,,,,,,,,,,,,,
+417623,1,,2026-03-05,,معركة,معركة (Maaraka),Tyre,South Lebanon,3,0,airstrike,unspecified (displaced family present),preliminary,0,0,
+417682,0,"General cumulative toll bulletin (MoPH), Mon dawn-Thu afternoon",,,,,,,,,,,,,,
+417686,1,,2026-03-05,,كفررمان,كفررمان (Kfarremen),Nabatieh,Nabatieh,2,0,airstrike,unspecified (named victims: studio photographer + brother),preliminary,0,0,roundup article; ONLY source for Kfarremen 2-dead fact; article also re-mentions Zawtar-family and Kfour-mukhtar deaths already captured in 417531/417534 - do not double count those
+417702,1,,2026-03-05,,لبايا وطرفها الشمالي,لبايا (Libaya),West Bekaa,Bekaa,3,4,airstrike,two homes; also motorcycle chased/struck at N edge,preliminary,0,1,"chain continues in 417743 which gives a lower MoPH count (2 dead/3 inj) - flag for merge review, later report may supersede"
+417734,1,,2026-03-05,,مشغرة,مشغرة (Mashghara),West Bekaa,Bekaa,4,0,airstrike,residence,preliminary,0,0,2 of 4 dead are children; chain continues in 417747
+417743,1,,2026-03-05,,لبايا,لبايا (Libaya),West Bekaa,Bekaa,2,3,airstrike,residence,preliminary,0,0,"MoPH update to 417702 chain - lower count than field report, flag for merge review"
+417747,1,,2026-03-05,,مشغرة,مشغرة (Mashghara),West Bekaa,Bekaa,4,1,airstrike,residence,preliminary,0,0,"MoPH confirmation of 417734 chain; ages given (5yo girl, 7yo boy)"
+417754,0,"General cumulative toll bulletin (MoPH), Mon dawn-Thu evening",,,,,,,,,,,,,,
+417806,1,,2026-03-06,,مسجد الامام المهدي - طريق ثانوية بلال فحص - تول,تول (Toul),Nabatieh,Nabatieh,1,0,airstrike,mosque,preliminary,0,0,"roundup article; named victim: mosque muezzin Mahdi Fahs. Also mentions Jbeshit building strike ~2 dead (unconfirmed/hedged wording) - see separate row logic; other strikes (Meifadoun, Nabatieh Bayyad, Kfartebnit homes, Kawthariyet al-Rez, Qaaqaait al-Jisr, Ainata) reported without confirmed deaths"
+417806b,1,,2026-03-06,,جبشيت,جبشيت (Jbeshit),Nabatieh,Nabatieh,2,0,airstrike,building,preliminary,0,1,"same source article as 417806 (Toul mosque); casualty figure hedged ('وافيد عن' = it was reported, unconfirmed) - separate incident/location from Toul mosque so split into own row"
+417808,1,,2026-03-06,,صريفا,صريفا (Srifa),Tyre,South Lebanon,1,0,airstrike,unspecified,preliminary,0,0,
+417813,0,"Institutional (ISF) eulogy/obituary identifying a member killed by an already-reported strike; biographical/commemorative in nature, not a new incident report",,,,,,,,,,,,,,"corroborates 417566 Zahle highway strike - possible ID of one victim, flag for merge review"
+417856,1,,2026-03-06,,مبنى المقاصد - صيدا,صيدا (Sidon),Sidon,South Lebanon,2,0,airstrike,building (Al-Maqassed Islamic charity building - offices/clinics),preliminary,0,0,chain continues in 417863
+417860,1,,2026-03-06,,اطراف المروانية - الزهراني,المروانية (Marwaniyeh),Zahrani,South Lebanon,1,0,airstrike,unspecified,preliminary,0,0,"district uncertain - Zahrani sometimes grouped under Sidon caza, verify"
+417863,1,,2026-03-06,,صيدا,صيدا (Sidon),Sidon,South Lebanon,5,7,airstrike,Al-Maqassed building,preliminary,0,0,MoPH update to 417856 chain
+417913,1,,2026-03-06,,السعيدة - غرب بعلبك,السعيدة (Saaideh),Baalbek,Baalbek-Hermel,3,0,airstrike,residence,preliminary,0,0,
+417915,1,,2026-03-06,,الدوير,الدوير (Al-Dawir),Nabatieh,Nabatieh,2,0,airstrike,two homes destroyed,preliminary,0,0,"chain continues in 417945, toll rises to 5"
+417945,1,,2026-03-06,,الدوير,الدوير (Al-Dawir),Nabatieh,Nabatieh,5,9,airstrike,home (3-story),preliminary,0,0,"update to 417915 chain; also mentions Haroof, Toul (near school), Kawthariyet al-Rez strikes w/ no confirmed deaths"

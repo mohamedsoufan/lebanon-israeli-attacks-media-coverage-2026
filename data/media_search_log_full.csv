@@ -1,0 +1,269 @@
+﻿location_day_id,stage,query,result_count_3d,result_count_7d,timestamp
+LD-2026-03-03-قبريحا (Qabrikha),base,"(""Qabrikha"" OR ""Kabrikha"") AND Lebanon",5,,2026-08-21T19:28:13
+LD-2026-03-04-عرمون / السعديات,base,"(""Aramoun"" OR ""Aarammoune"" OR ""Saadiyat"" OR ""Saadiyate"") AND Lebanon",10,,2026-08-21T19:28:13
+LD-2026-03-05-القليلة (Qlaile),base,"(""Qlaile"" OR ""Klaile"" OR ""Qlayleh"") AND Lebanon",0,1,2026-08-21T19:29:15
+LD-2026-03-04-بعلبك (Baalbek city),base,"(""Baalbek"" OR ""Baalbeck"") AND Lebanon AND (residential OR ""6 killed"" OR building OR airstrike)",10,,2026-08-21T19:29:14
+LD-2026-03-05-الكفور (Kfour),base,"(""Kfour"" OR ""Kfor"" OR ""Al-Kfour"") AND Lebanon",6,,2026-08-21T19:30:15
+LD-2026-03-05-زوطر / كفرتبنيت,base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar al-Gharbiya"" OR ""Kfartebnit"" OR ""Kfar Tebnit"") AND Lebanon AND (strike OR airstrike OR raid OR killed OR attack OR shelling)",5,,2026-08-21T19:30:16
+LD-2026-03-05-زوطر الشرقية (Zawtar al-Sharqiya),base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar East"" OR ""Zoutar Charkiye"") AND Lebanon",3,,2026-08-21T19:31:16
+LD-2026-03-05-كفررمان (Kfarremen),base,"(""Kfarremen"" OR ""Kfar Remen"" OR ""Kfar Rumman"" OR ""Kfar Roummane"") AND Lebanon",4,,2026-08-21T19:31:17
+LD-2026-03-05-مشغرة (Mashghara),base,"(""Mashghara"" OR ""Machghara"") AND Lebanon",3,,2026-08-21T19:32:19
+LD-2026-03-05-لبايا (Libaya),base,"(""Libaya"" OR ""Lebaya"") AND Lebanon",,,2026-08-21T19:32:36
+LD-2026-03-05-معركة (Maaraka),base,"(""Maaraka"" OR ""Maarakeh"" OR ""Maarake"") AND Lebanon",1,,2026-08-21T19:32:19
+LD-2026-03-05-معركة (Maaraka),fallback,"(""Maaraka"" OR ""Maarakeh"" OR ""Maarake"") AND Lebanon AND (""family"" OR ""displaced"" OR ""airstrike"" OR ""present"")",0,0,2026-08-21T19:33:20
+LD-2026-03-06-الحنية (Al-Haniyeh),base,"(""Haniyeh"" OR ""Haniye"" OR ""El-Haniyeh"") AND Lebanon",4,,2026-08-21T19:33:21
+LD-2026-03-06-السعيدة (Saaideh),base,"(""Saaideh"" OR ""Saaida"" OR ""Al-Saaideh"") AND Lebanon",0,0,2026-08-21T19:34:21
+LD-2026-03-06-المروانية (Marwaniyeh),base,"(""Marwaniyeh"" OR ""Marouaniye"" OR ""Al-Marwaniyeh"") AND Lebanon",0,0,2026-08-21T19:34:24
+LD-2026-03-06-الدوير (Al-Dawir),base,"(""Dawir"" OR ""Douair"" OR ""Ed-Doueir"" OR ""Al-Dawir"") AND Lebanon",,,2026-08-21T19:34:52
+LD-2026-03-06-الشياح (Chiyah),base,"(""Chiyah"" OR ""Shiyah"" OR ""Al-Shiyah"" OR ""Mar Mikhael"" OR ""Mar Mikhail"") AND Lebanon",4,,2026-08-21T19:35:24
+LD-2026-03-06-بئر حسن (Bir Hassan),base,"(""Bir Hassan"" OR ""Beer Hassan"") AND Lebanon",0,0,2026-08-21T19:35:26
+LD-2026-03-06-جبشيت (Jbeshit),base,"(""Jbeshit"" OR ""Jbaachit"" OR ""Jbchit"") AND Lebanon",0,0,2026-08-21T19:36:27
+LD-2026-03-06-صيدا (Sidon),base,"(""Sidon"" OR ""Saida"") AND Lebanon AND (""Al-Maqassed"" OR ""5 killed"")",0,0,2026-08-21T19:36:28
+LD-2026-03-06-تول (Toul),base,"(""Toul"" OR ""Tul"") AND Lebanon",,,2026-08-21T19:37:09
+LD-2026-03-07-Sharqiya/Kawthariyet al-Sayad road,base,"(""Sharqiya"" OR ""Charkiyeh"" OR ""Kawthariyet al-Sayad"" OR ""Kaouthariyet el-Siyad"") AND Lebanon",5,,2026-08-21T19:37:10
+LD-2026-03-07-النبي شيت (Nabi Chit/Nabi Sheet),base,"(""Nabi Chit"" OR ""Nabi Sheet"" OR ""Nabi Shit"") AND Lebanon",10,,2026-08-21T19:37:13
+LD-2026-03-07-جبال البطم (Jabal al-Botm),base,"(""Jabal al-Botm"" OR ""Jabal el-Botom"") AND Lebanon",0,0,2026-08-21T19:38:16
+LD-2026-03-07-جبشيت (Jbeshit),base,"(""Jbeshit"" OR ""Jbaachit"" OR ""Jbchit"") AND Lebanon",0,0,2026-08-21T19:38:18
+LD-2026-03-06-قلاويه (Qalawiyeh),base,"(""Qalawiyeh"" OR ""Qalaouiye"" OR ""Kalawiye"") AND Lebanon",,,2026-08-21T19:38:44
+LD-2026-03-06-مجدل سلم (Majdal Selem),base,"(""Majdal Selem"" OR ""Majdal Silm"" OR ""Majdel Selm"") AND Lebanon",,,2026-08-21T19:38:45
+LD-2026-03-07-خربة سلم (Khirbet Selm),base,"(""Khirbet Selm"" OR ""Khirbet Silm"" OR ""Kherbet Selm"") AND Lebanon",3,,2026-08-21T19:39:20
+LD-2026-03-07-صريفا (Srifa),base,"(""Srifa"" OR ""Sreifa"" OR ""Sarifa"") AND Lebanon",10,,2026-08-21T19:39:23
+LD-2026-03-07-كفرتبنيت (Kfartebnit),base,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Kfartibnit"") AND Lebanon",0,1,2026-08-21T19:40:27
+LD-2026-03-07-كفررمان (Kfarremen),base,"(""Kfarremen"" OR ""Kfar Remen"" OR ""Kfar Rumman"" OR ""Kfar Roummane"") AND Lebanon",3,,2026-08-21T19:40:28
+LD-2026-03-07-زوطر الشرقية (Zawtar al-Sharqiya),base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar East"" OR ""Zoutar Charkiye"") AND Lebanon",,,2026-08-21T19:41:00
+LD-2026-03-07-شمسطار (Shamsatar),base,"(""Shamsatar"" OR ""Chamsatar"" OR ""Shamstar"") AND Lebanon",,,2026-08-21T19:41:01
+LD-2026-03-07-كوثرية الرز (Kawthariyet al-Rez),base,"(""Kawthariyet al-Rez"" OR ""Kaouthariyet el-Rez"" OR ""Kawtharieh"") AND Lebanon",0,0,2026-08-21T19:41:30
+LD-2026-03-08-الروشة (Raouche),base,"(""Raouche"" OR ""Rawshe"" OR ""Rawcheh"" OR ""Al-Rawsheh"") AND Lebanon",10,,2026-08-21T19:41:32
+LD-2026-03-08-الشعيتية (Al-Shaitiyeh),base,"(""Shaitiyeh"" OR ""Chaytiyeh"" OR ""Al-Shaitiyeh"") AND Lebanon",0,0,2026-08-21T19:42:35
+LD-2026-03-08-الغازية (Ghazieh),base,"(""Ghazieh"" OR ""Ghaziyeh"" OR ""Al-Ghazieh"") AND Lebanon",0,2,2026-08-21T19:42:38
+LD-2026-03-08-الدوير (Al-Dawir),base,"(""Dawir"" OR ""Douair"" OR ""Ed-Doueir"" OR ""Al-Dawir"") AND Lebanon",1,,2026-08-21T19:43:18
+LD-2026-03-07-ميفدون (Meifadoun),base,"(""Meifadoun"" OR ""Meifdoun"" OR ""Meifadoune"") AND Lebanon",0,0,2026-08-21T19:44:01
+LD-2026-03-08-تبنين (Tibnine),base,"(""Tibnine"" OR ""Tebnine"" OR ""Tibnin"") AND Lebanon",10,,2026-08-21T19:44:19
+LD-2026-03-08-صير الغربية (Sir al-Gharbiyeh),base,"(""Sir al-Gharbiyeh"" OR ""Seer al-Gharbiye"" OR ""Sir el-Gharbiyeh"") AND Lebanon",8,,2026-08-21T19:44:22
+LD-2026-03-08-بريتال (Britel),base,"(""Britel"" OR ""Britell"" OR ""Brital"") AND Lebanon",,,2026-08-21T19:44:54
+LD-2026-03-08-علما الشعب (Alma al-Shaab),base,"(""Alma al-Shaab"" OR ""Alma ech-Chaab"" OR ""Alma al-Chaab"") AND Lebanon",10,,2026-08-21T19:45:25
+LD-2026-03-08-قانا (Qana),base,"(""Qana"" OR ""Cana"" OR ""Kana"") AND Lebanon",10,,2026-08-21T19:45:28
+LD-2026-03-08-يحمر الشقيف (Yohmor al-Shaqif),base,"(""Yohmor al-Shaqif"" OR ""Yuhmur al-Shaqif"" OR ""Yohmor"") AND Lebanon",10,,2026-08-21T19:46:30
+LD-2026-03-08-تفاحتا (Tfahta),base,"(""Tfahta"" OR ""Tafahta"") AND Lebanon",0,0,2026-08-21T19:47:02
+LD-2026-03-08-عيتيت (Aitit),base,"(""Aitit"" OR ""Aytit"" OR ""Ayteet"") AND Lebanon",2,,2026-08-21T19:47:12
+LD-2026-03-09-الضاحية الجنوبية (Beirut southern suburb/Dahiye),base,"(""Dahiyeh"" OR ""Dahieh"" OR ""Dahiya"" OR ""Beirut southern suburb"") AND Lebanon",10,,2026-08-21T19:47:21
+LD-2026-03-09-الطيري (Al-Tiri),base,"(""Tiri"" OR ""Al-Tiri"" OR ""Et-Tiri"") AND Lebanon",2,,2026-08-21T19:48:24
+LD-2026-03-09-الطيري (Al-Tiri),fallback,"(""Tiri"" OR ""Al-Tiri"" OR ""Et-Tiri"") AND Lebanon AND (""drone"" OR ""strike"")",1,,2026-08-21T19:48:25
+LD-2026-03-09-Beit Yahoun-Tibnine road,base,"(""Beit Yahoun"" OR ""Beit Yahoune"" OR ""Tibnine"" OR ""Tebnine"") AND Lebanon",,,2026-08-21T19:48:49
+LD-2026-03-09-Bint Jbeil-Aytaroun road,base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Aytaroun"" OR ""Aitaroun"") AND Lebanon",10,,2026-08-21T19:49:19
+LD-2026-03-09-بيت ليف (Beit Lif),base,"(""Beit Lif"" OR ""Beit Leef"") AND Lebanon",2,,2026-08-21T19:49:22
+LD-2026-03-09-بيت ليف (Beit Lif),fallback,"(""Beit Lif"" OR ""Beit Leef"") AND Lebanon AND (""airstrike"")",0,1,2026-08-21T19:50:23
+LD-2026-03-09-تبنين (Tibnine),base,"(""Tibnine"" OR ""Tebnine"" OR ""Tibnin"") AND Lebanon",10,,2026-08-21T19:50:25
+LD-2026-03-09-القليعة (Qlaya),base,"(""Qlaya"" OR ""Klaiaa"" OR ""Kleiaa"") AND Lebanon",,,2026-08-21T19:50:42
+LD-2026-03-09-النميرية (Al-Nmeiriyeh),base,"(""Nmeiriyeh"" OR ""Numeiriyeh"" OR ""Al-Nmeiriyeh"") AND Lebanon",,,2026-08-21T19:51:06
+LD-2026-03-09-جويا (Joya),base,"(""Joya"" OR ""Jouaiya"" OR ""Jwaya"") AND Lebanon",10,,2026-08-21T19:51:26
+LD-2026-03-09-طير دبا (Tair Debba),base,"(""Tair Debba"" OR ""Tayr Debba"" OR ""Teir Debba"") AND Lebanon",3,,2026-08-21T19:51:29
+LD-2026-03-09-كفرتبنيت (Kfartebnit),base,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Kfartibnit"") AND Lebanon",0,1,2026-08-21T19:52:36
+LD-2026-03-09-شبعا (Shebaa),base,"(""Shebaa"" OR ""Chebaa"" OR ""Shabaa"") AND Lebanon",,,2026-08-21T19:52:58
+LD-2026-03-09-شوكين (Shawkin),base,"(""Shawkin"" OR ""Chaoukine"") AND Lebanon",0,0,2026-08-21T19:53:07
+LD-2026-03-10-الأوزاعي (Ouzai),base,"(""Ouzai"" OR ""Ouzai"" OR ""Awzai"" OR ""Al-Ouzai"") AND Lebanon",0,0,2026-08-21T19:53:38
+LD-2026-03-10-جويا (Joya),base,"(""Joya"" OR ""Jouaiya"" OR ""Jwaya"") AND Lebanon",10,,2026-08-21T19:53:39
+LD-2026-03-10-حناويه (Hanawiyeh),base,"(""Hanawiyeh"" OR ""Hanawiye"") AND Lebanon",0,0,2026-08-21T19:54:42
+LD-2026-03-10-القليلة (Qlaile),base,"(""Qlaile"" OR ""Klaile"" OR ""Qlayleh"") AND Lebanon",1,,2026-08-21T19:54:12
+LD-2026-03-10-القليلة (Qlaile),fallback,"(""Qlaile"" OR ""Klaile"" OR ""Qlayleh"") AND Lebanon AND (""vehicle"" OR ""drone"" OR ""strike"")",1,,2026-08-21T19:55:11
+LD-2026-03-10-الحوش (Al-Hosh),base,"(""Hosh"" OR ""El-Hosh"" OR ""Al-Hosh"") AND Lebanon",,,2026-08-21T19:55:15
+LD-2026-03-10-قانا (Qana),base,"(""Qana"" OR ""Cana"" OR ""Kana"") AND Lebanon",10,,2026-08-21T19:55:13
+LD-2026-03-10-قلاويه (Qalawiyeh),base,"(""Qalawiyeh"" OR ""Qalaouiye"" OR ""Kalawiye"") AND Lebanon",0,16,2026-08-21T19:56:17
+LD-2026-03-10-كفرجوز (Kfarjouz),base,"(""Kfarjouz"" OR ""Kfar Jouz"" OR ""Kafr Jouz"") AND Lebanon",1,,2026-08-21T19:56:17
+LD-2026-03-10-زوطر الشرقية (Zawtar al-Sharqiya),base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar East"" OR ""Zoutar Charkiye"") AND Lebanon",,,2026-08-21T19:56:58
+LD-2026-03-11-Habbouch-Arabsalim area,base,"(""Habbouch"" OR ""Habboush"" OR ""Arabsalim"" OR ""Arab Salim"") AND Lebanon",5,,2026-08-21T19:57:18
+LD-2026-03-11-الشرقية (Sharqiya),base,"(""Sharqiya village"" OR ""Charkiyeh"") AND Lebanon AND (strike OR airstrike OR raid OR killed OR attack OR shelling)",0,0,2026-08-21T19:57:22
+LD-2026-03-11-النبطية (Nabatieh city),base,"(""Nabatieh"" OR ""Nabatiyeh"") AND Lebanon AND (drone OR ""1 killed"")",10,,2026-08-21T19:58:20
+LD-2026-03-11-برعشيت (Bar'ashit),base,"(""Bar'ashit"" OR ""Baraachit"" OR ""Bir'ashit"") AND Lebanon",0,0,2026-08-21T19:58:22
+LD-2026-03-11-برج الشمالي (Burj al-Shamali),base,"(""Burj al-Shamali"" OR ""Bourj el-Chemali"" OR ""Burj Shemali"") AND Lebanon",0,18,2026-08-21T19:59:27
+LD-2026-03-11-الشهابية (Al-Shihabiyeh),base,"(""Shihabiyeh"" OR ""Chihabiyeh"" OR ""Al-Shihabiyeh"") AND Lebanon",0,0,2026-08-21T20:00:00
+LD-2026-03-11-بنت جبيل (Bint Jbeil city),base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Bent Jbeil"") AND Lebanon",10,,2026-08-21T20:00:23
+LD-2026-03-11-تمنين التحتا (Tamnin al-Tahta),base,"(""Tamnin al-Tahta"" OR ""Temnine el-Tahta"" OR ""Tamnine"") AND Lebanon",10,,2026-08-21T20:00:26
+LD-2026-03-11-بنت جبيل (Bint Jbeil),base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Bent Jbeil"") AND Lebanon",10,,2026-08-21T20:01:28
+LD-2026-03-11-دير أنطار (Deir Antar),base,"(""Deir Antar"" OR ""Dayr Antar"") AND Lebanon",10,,2026-08-21T20:01:29
+LD-2026-03-11-تبنين (Tibnine),base,"(""Tibnine"" OR ""Tebnine"" OR ""Tibnin"") AND Lebanon",10,,2026-08-21T20:02:17
+LD-2026-03-11-شقرا (Shaqra),base,"(""Shaqra"" OR ""Chaqra"" OR ""Shakra"") AND Lebanon",2,,2026-08-21T20:02:26
+LD-2026-03-11-زلايا (Zalaya),base,"(""Zalaya"" OR ""Zellaya"") AND Lebanon",9,,2026-08-21T20:03:29
+LD-2026-03-11-شعت (Chaat),base,"(""Chaat"" OR ""Shaat"" OR ""Chaath"") AND Lebanon",,,2026-08-21T20:03:46
+LD-2026-03-11-كفرتبنيت (Kfartebnit),base,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Kfartibnit"") AND Lebanon",1,,2026-08-21T20:03:29
+LD-2026-03-11-كفرتبنيت (Kfartebnit),fallback,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Kfartibnit"") AND Lebanon AND (""airstrike"" OR ""medic"" OR ""Islamic"" OR ""Health"" OR ""explicitly"" OR ""Authority"")",1,,2026-08-21T20:04:29
+LD-2026-03-12-النبطية الفوقا (Nabatieh al-Fawqa),base,"(""Nabatieh al-Fawqa"" OR ""Nabatiyeh el-Fawqa"" OR ""Upper Nabatieh"") AND Lebanon",1,,2026-08-21T20:04:31
+LD-2026-03-11-معركة (Maaraka junction),base,"(""Maaraka"" OR ""Maarakeh"" OR ""Maarake"") AND Lebanon",0,0,2026-08-21T20:05:35
+LD-2026-03-12-الحدث (Hadath),base,"(""Hadath"" OR ""Hadeth"" OR ""Al-Hadath"") AND Lebanon",,,2026-08-21T20:06:03
+LD-2026-03-12-بنت جبيل (Bint Jbeil),base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Bent Jbeil"") AND Lebanon",10,,2026-08-21T20:06:36
+LD-2026-03-12-باريش (Barish),base,"(""Barish"" OR ""Barich"") AND Lebanon",10,,2026-08-21T20:05:32
+LD-2026-03-12-باريش (Barish),fallback,"(""Barish"" OR ""Barich"") AND Lebanon AND (""airstrike"")",0,0,2026-08-21T20:06:50
+LD-2026-03-12-عرمون (Aramoun),base,"(""Aramoun"" OR ""Aarammoune"") AND Lebanon",10,,2026-08-21T20:07:37
+LD-2026-03-12-معركة البص (Maaraka al-Bass junction),base,"(""Maaraka al-Bass"" OR ""El Buss"" OR ""Al-Bass camp"" OR ""Maaraka"") AND Lebanon",0,1,2026-08-21T20:07:42
+LD-2026-03-12-دير أنطار (Deir Antar),base,"(""Deir Antar"" OR ""Dayr Antar"") AND Lebanon",10,,2026-08-21T20:08:20
+LD-2026-03-13-الصوانة (Al-Sawwaneh),base,"(""Sawwaneh"" OR ""Sawaneh"" OR ""Al-Sawwaneh"") AND Lebanon",10,,2026-08-21T20:08:22
+LD-2026-03-12-عين ابل (Ain Ebel),base,"(""Ain Ebel"" OR ""Ain Ebl"" OR ""Ain Aabel"") AND Lebanon",,,2026-08-21T20:09:07
+LD-2026-03-13-الغازية (Ghazieh),base,"(""Ghazieh"" OR ""Ghaziyeh"" OR ""Al-Ghazieh"") AND Lebanon",2,,2026-08-21T20:09:26
+LD-2026-03-13-النبطية (Nabatieh city),base,"(""Nabatieh"" OR ""Nabatiyeh"") AND Lebanon AND (""Al-Rahibat"" OR ""7 killed"")",5,,2026-08-21T20:09:29
+LD-2026-03-13-Kfartebnit-Arnoun road,base,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Arnoun"" OR ""Arnoune"") AND Lebanon",,,2026-08-21T20:09:59
+LD-2026-03-13-الفوار (Al-Fawwar),base,"(""Fawwar"" OR ""Al-Fawwar"" OR ""Fawar"") AND Lebanon",10,,2026-08-21T20:10:12
+LD-2026-03-13-بنت جبيل (Bint Jbeil city),base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Bent Jbeil"") AND Lebanon",10,,2026-08-21T20:10:15
+LD-2026-03-13-شبعا (Shebaa),base,"(""Shebaa"" OR ""Chebaa"" OR ""Shabaa"") AND Lebanon",2,,2026-08-21T20:11:18
+LD-2026-03-13-شبعا (Shebaa),fallback,"(""Shebaa"" OR ""Chebaa"" OR ""Shabaa"") AND Lebanon AND (""drone"" OR ""strike"")",2,,2026-08-21T20:11:19
+LD-2026-03-13-بر الياس (Bar Elias),base,"(""Bar Elias"" OR ""Baar Elias"") AND Lebanon",,,2026-08-21T20:11:46
+LD-2026-03-13-برج قلاويه (Burj Qalawiyeh),base,"(""Burj Qalawiyeh"" OR ""Bourj Qalaouiye"" OR ""Burj Kalaouiyeh"") AND Lebanon",1,,2026-08-21T20:12:16
+LD-2026-03-13-طريق الشعيتية (Al-Shaitiyeh road),base,"(""Shaitiyeh"" OR ""Chaytiyeh"") AND Lebanon",0,0,2026-08-21T20:12:21
+LD-2026-03-13-ياطر (Yatar),base,"(""Yatar"" OR ""Yater"") AND Lebanon",10,,2026-08-21T20:13:19
+LD-2026-03-14-القطراني (Qatrani),base,"(""Qatrani"" OR ""Katrani"" OR ""Al-Qatrani"") AND Lebanon",10,,2026-08-21T20:13:21
+LD-2026-03-13-عبا (Aaba),base,"(""Aaba"" OR ""Ebba"" OR ""Aabba"") AND Lebanon",,,2026-08-21T20:14:02
+LD-2026-03-14-القنطرة (Qantara),base,"(""Qantara"" OR ""Kantara"" OR ""Al-Qantara"") AND Lebanon",10,,2026-08-21T20:14:22
+LD-2026-03-14-النبعة (Nabaa),base,"(""Nabaa"" OR ""Naba"" OR ""El-Nabaa"" OR ""Bourj Hammoud"") AND Lebanon",10,,2026-08-21T20:14:25
+LD-2026-03-14-حارة صيدا (Harit Saida),base,"(""Harit Saida"" OR ""Haret Saida"" OR ""Hara Saida"") AND Lebanon",10,,2026-08-21T20:15:25
+LD-2026-03-14-مجدل سلم (Majdal Selem),base,"(""Majdal Selem"" OR ""Majdal Silm"" OR ""Majdel Selm"") AND Lebanon",0,0,2026-08-21T20:15:28
+LD-2026-03-14-برج قلاويه (Burj Qalawiyeh),base,"(""Burj Qalawiyeh"" OR ""Bourj Qalaouiye"" OR ""Burj Kalaouiyeh"") AND Lebanon",1,,2026-08-21T20:16:19
+LD-2026-03-15-طريق النبطية الفوقا (Nabatieh al-Fawqa road),base,"(""Nabatieh al-Fawqa"" OR ""Nabatiyeh el-Fawqa"") AND Lebanon",0,2,2026-08-21T20:16:22
+LD-2026-03-15-عيتيت (Aitit),base,"(""Aitit"" OR ""Aytit"" OR ""Ayteet"") AND Lebanon",3,,2026-08-21T20:17:23
+LD-2026-03-15-عيتيت (Aitit),fallback,"(""Aitit"" OR ""Aytit"" OR ""Ayteet"") AND Lebanon AND (""airstrike"")",2,,2026-08-21T20:17:23
+LD-2026-03-14-ميفدون (Meifadoun),base,"(""Meifadoun"" OR ""Meifdoun"" OR ""Meifadoune"") AND Lebanon",,,2026-08-21T20:17:43
+LD-2026-03-15-الشرحبيل (Sharhabil),base,"(""Sharhabil"" OR ""Charhabil"") AND Lebanon",,,2026-08-21T20:17:45
+LD-2026-03-15-مجدل سلم (Majdal Selem),base,"(""Majdal Selem"" OR ""Majdal Silm"" OR ""Majdel Selm"") AND Lebanon",0,15,2026-08-21T20:18:25
+LD-2026-03-16-معركة (Maaraka junction),base,"(""Maaraka"" OR ""Maarakeh"" OR ""Maarake"") AND Lebanon",0,0,2026-08-21T20:18:27
+LD-2026-03-16-ياطر (Yatar),base,"(""Yatar"" OR ""Yater"") AND Lebanon",10,,2026-08-21T20:19:28
+LD-2026-03-17-Aaba-Jbeshit area,base,"(""Aaba"" OR ""Ebba"" OR ""Jbeshit"" OR ""Jbaachit"" OR ""Jbchit"") AND Lebanon",0,0,2026-08-21T20:19:33
+LD-2026-03-16-القنطرة (Qantara),base,"(""Qantara"" OR ""Kantara"" OR ""Al-Qantara"") AND Lebanon",,,2026-08-21T20:20:00
+LD-2026-03-16-كفرصير (Kfarsir),base,"(""Kfarsir"" OR ""Kfar Sir"") AND Lebanon",,,2026-08-21T20:20:01
+LD-2026-03-17-Zebdine-Nabatieh road,base,"(""Zebdine"" OR ""Zebdin"" OR ""Zibdine"") AND Lebanon AND (motorcycle OR soldiers OR drone)",2,,2026-08-21T20:20:34
+LD-2026-03-17-Zebdine-Nabatieh road,fallback,"(""Zebdine"" OR ""Zebdin"" OR ""Zibdine"" OR ""Nabatieh"" OR ""Nabatiyeh"") AND Lebanon AND (""strike"" OR ""Lebanese"" OR ""drone"" OR ""Army"" OR ""explicit"" OR ""soldiers"")",10,,2026-08-21T20:20:35
+LD-2026-03-17-الغازية (Ghazieh),base,"(""Ghazieh"" OR ""Ghaziyeh"" OR ""Al-Ghazieh"") AND Lebanon",0,0,2026-08-21T20:21:39
+LD-2026-03-17-بعلبك (Baalbek city),base,"(""Baalbek"" OR ""Baalbeck"") AND Lebanon AND (""Ras al-Ain"" OR ""4 killed"" OR residential)",10,,2026-08-21T20:21:41
+LD-2026-03-17-الجميجمة (Al-Jmeijmeh),base,"(""Jmeijmeh"" OR ""Jmaijmeh"" OR ""Al-Jmeijmeh"") AND Lebanon",0,0,2026-08-21T20:23:01
+LD-2026-03-17-بنت جبيل (Bint Jbeil city),base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Bent Jbeil"") AND Lebanon",10,,2026-08-21T20:23:45
+LD-2026-03-17-السلطانية (Al-Sultaniyeh),base,"(""Sultaniyeh"" OR ""Soultaniyeh"" OR ""Al-Sultaniyeh"") AND Lebanon",1,,2026-08-21T20:22:18
+LD-2026-03-17-السلطانية (Al-Sultaniyeh),fallback,"(""Sultaniyeh"" OR ""Soultaniyeh"" OR ""Al-Sultaniyeh"") AND Lebanon AND (""vehicle"" OR ""strike"")",0,1,2026-08-21T20:24:02
+LD-2026-03-17-طريق المطار (Airport Road),base,"(""Airport Road"" OR ""Beirut Airport Road"" OR ""Beirut international airport road"") AND Lebanon AND (strike OR airstrike OR raid OR killed OR attack OR shelling)",1,,2026-08-21T20:24:46
+LD-2026-03-17-طريق المطار (Airport Road),fallback,"(""Airport Road"" OR ""Beirut Airport Road"" OR ""Beirut international airport road"") AND Lebanon AND (""airstrike"")",1,,2026-08-21T20:24:47
+LD-2026-03-18-برج قلاويه (Burj Qalawiyeh),base,"(""Burj Qalawiyeh"" OR ""Bourj Qalaouiye"" OR ""Burj Kalaouiyeh"") AND Lebanon",1,,2026-08-21T20:25:47
+LD-2026-03-17-حاروف (Haroof),base,"(""Haroof"" OR ""Haruf"" OR ""Harouf"") AND Lebanon",2,,2026-08-21T20:25:18
+LD-2026-03-17-حاروف (Haroof),fallback,"(""Haroof"" OR ""Haruf"" OR ""Harouf"") AND Lebanon AND (""complex"" OR ""airstrike"")",0,1,2026-08-21T20:27:02
+LD-2026-03-18-القليعة (Qlaya),base,"(""Qlaya"" OR ""Klaiaa"" OR ""Kleiaa"") AND Lebanon",0,0,2026-08-21T20:27:03
+LD-2026-03-18-جبشيت (Jbeshit),base,"(""Jbeshit"" OR ""Jbaachit"" OR ""Jbchit"") AND Lebanon",0,0,2026-08-21T20:27:55
+LD-2026-03-18-دير الزهراني (Deir al-Zahrani),base,"(""Deir al-Zahrani"" OR ""Deir ez-Zahrani"") AND Lebanon",2,,2026-08-21T20:27:56
+LD-2026-03-18-سحمر (Sohmor),base,"(""Sohmor"" OR ""Sahmor"" OR ""Sohmar"") AND Lebanon",6,,2026-08-21T20:28:58
+LD-2026-03-18-شعت (Chaat),base,"(""Chaat"" OR ""Shaat"" OR ""Chaath"") AND Lebanon",2,,2026-08-21T20:29:01
+LD-2026-03-18-حبوش (Habbouch),base,"(""Habbouch"" OR ""Habboush"") AND Lebanon",8,,2026-08-21T20:29:18
+LD-2026-03-18-خربة سلم (Khirbet Selm),base,"(""Khirbet Selm"" OR ""Khirbet Silm"" OR ""Kherbet Selm"") AND Lebanon",0,1,2026-08-21T20:30:03
+LD-2026-03-18-صيدا (Sidon Corniche),base,"(""Sidon"" OR ""Saida"") AND Lebanon AND (corniche OR vehicle OR ""Civil Defense"" OR ""civil defence"")",10,,2026-08-21T20:30:11
+LD-2026-03-19-البازورية (Bazouriyeh),base,"(""Bazouriyeh"" OR ""Bazourieh"" OR ""Bazuriyeh"") AND Lebanon",3,,2026-08-21T20:30:14
+LD-2026-03-19-عدلون (Adloun),base,"(""Adloun"" OR ""Adlun"" OR ""Adloune"") AND Lebanon",2,,2026-08-21T20:31:15
+LD-2026-03-20-الغندورية (Al-Ghandouriyeh),base,"(""Ghandouriyeh"" OR ""Ghandourieh"" OR ""Al-Ghandouriyeh"") AND Lebanon",9,,2026-08-21T20:31:17
+LD-2026-03-18-قناريت (Qanaryet),base,"(""Qanaryet"" OR ""Kanariyet"") AND Lebanon",,,2026-08-21T20:31:37
+LD-2026-03-20-بافيله (Bafiliyeh),base,"(""Bafiliyeh"" OR ""Bafilieh"") AND Lebanon",0,0,2026-08-21T20:32:20
+LD-2026-03-18-ميفدون (Meifadoun),base,"(""Meifadoun"" OR ""Meifdoun"" OR ""Meifadoune"") AND Lebanon",0,0,2026-08-21T20:33:04
+LD-2026-03-22-السلطانية (Al-Sultaniyeh),base,"(""Sultaniyeh"" OR ""Soultaniyeh"" OR ""Al-Sultaniyeh"") AND Lebanon",2,,2026-08-21T20:33:22
+LD-2026-03-22-حبوش (Habbouch),base,"(""Habbouch"" OR ""Habboush"") AND Lebanon",10,,2026-08-21T20:33:27
+LD-2026-03-21-زوطر الشرقية (Zawtar al-Sharqiya),base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar East"" OR ""Zoutar Charkiye"") AND Lebanon",,,2026-08-21T20:33:53
+LD-2026-03-23-الحازمية (Hazmieh),base,"(""Hazmieh"" OR ""Hazmiyeh"" OR ""Hazmiye"") AND Lebanon",10,,2026-08-21T20:34:28
+LD-2026-03-23-الشهابية (Al-Shihabiyeh),base,"(""Shihabiyeh"" OR ""Chihabiyeh"" OR ""Al-Shihabiyeh"") AND Lebanon",0,0,2026-08-21T20:34:33
+LD-2026-03-23-الحنية (Al-Haniyeh),base,"(""Haniyeh"" OR ""Haniye"" OR ""El-Haniyeh"") AND Lebanon",2,,2026-08-21T20:36:10
+LD-2026-03-23-مجدل سلم (Majdal Selem),base,"(""Majdal Selem"" OR ""Majdal Silm"" OR ""Majdel Selm"") AND Lebanon",2,,2026-08-21T20:36:13
+LD-2026-03-24-Adloun-Abu al-Aswad area,base,"(""Adloun"" OR ""Adlun"" OR ""Abu al-Aswad"" OR ""Abou el-Aswad"") AND Lebanon",10,,2026-08-21T20:37:15
+LD-2026-03-24-Burj al-Shamali road,base,"(""Burj al-Shamali"" OR ""Bourj el-Chemali"" OR ""Burj Shemali"" OR ""Burj al-Chamali"") AND Lebanon",10,,2026-08-21T20:37:20
+LD-2026-03-23-عيتيت (Aitit),base,"(""Aitit"" OR ""Aytit"" OR ""Ayteet"") AND Lebanon",2,,2026-08-21T20:35:34
+LD-2026-03-23-عيتيت (Aitit),fallback,"(""Aitit"" OR ""Aytit"" OR ""Ayteet"") AND Lebanon AND (""residence"" OR ""airstrike"")",,,2026-08-21T20:37:50
+LD-2026-03-22-الصوانة (Al-Sawwaneh),base,"(""Sawwaneh"" OR ""Sawaneh"" OR ""Al-Sawwaneh"") AND Lebanon",1,,2026-08-21T20:35:21
+LD-2026-03-22-الصوانة (Al-Sawwaneh),fallback,"(""Sawwaneh"" OR ""Sawaneh"" OR ""Al-Sawwaneh"") AND Lebanon AND (""airstrike"")",,,2026-08-21T20:38:05
+LD-2026-03-24-Habbouch-Nabatieh highway,base,"(""Habbouch"" OR ""Habboush"") AND Lebanon AND (motorcycle OR drone)",3,,2026-08-21T20:38:20
+LD-2026-03-24-النبطية (Nabatieh city),base,"(""Nabatieh"" OR ""Nabatiyeh"") AND Lebanon AND (""northern entrance"" OR ""medics"" OR ""ambulance"" OR motorcycle)",10,,2026-08-21T20:38:32
+LD-2026-03-24-حبوش (Habbouch),base,"(""Habbouch"" OR ""Habboush"") AND Lebanon",10,,2026-08-21T20:39:33
+LD-2026-03-24-حلتا (Halta),base,"(""Halta"" OR ""Hilta"") AND Lebanon",10,,2026-08-21T20:39:35
+LD-2026-03-24-Jbeshit-Nabatieh highway,base,"(""Jbeshit"" OR ""Jbaachit"") AND Lebanon AND (motorcycle OR drone)",,,2026-08-21T20:40:06
+LD-2026-03-24-الشبريحة (Shabriha junction),base,"(""Shabriha"" OR ""Chabriha"") AND Lebanon",2,,2026-08-21T20:40:22
+LD-2026-03-24-عدلون (Adloun),base,"(""Adloun"" OR ""Adlun"" OR ""Adloune"") AND Lebanon",10,,2026-08-21T20:40:23
+LD-2026-03-24-صريفا (Srifa),base,"(""Srifa"" OR ""Sreifa"" OR ""Sarifa"") AND Lebanon",8,,2026-08-21T20:41:11
+LD-2026-03-24-كونين (Kounine),base,"(""Kounine"" OR ""Kawnin"" OR ""Kaounine"") AND Lebanon",0,0,2026-08-21T20:41:15
+LD-2026-03-24-سلعا (Sal'a),base,"(""Sal'a"" OR ""Salaa"" OR ""Sala'a"") AND Lebanon",,,2026-08-21T20:41:52
+LD-2026-03-24-محرونة (Mahrouneh),base,"(""Mahrouneh"" OR ""Mahrouna"") AND Lebanon",1,,2026-08-21T20:42:15
+LD-2026-03-25-Zawtar al-Sharqiya/al-Gharbiya area,base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar al-Gharbiya"" OR ""Zoutar el-Gharbiyeh"" OR ""Zawtar East"" OR ""Zawtar West"") AND Lebanon",3,,2026-08-21T20:42:18
+LD-2026-03-24-كفرتبنيت (Kfartebnit),base,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Kfartibnit"") AND Lebanon",,,2026-08-21T20:42:40
+LD-2026-03-25-البيسارية (Beisariyeh),base,"(""Beisariyeh"" OR ""Bissariyeh"" OR ""Baysariyeh"") AND Lebanon",0,0,2026-08-21T20:43:20
+LD-2026-03-25-حاروف (Haroof),base,"(""Haroof"" OR ""Haruf"" OR ""Harouf"") AND Lebanon",6,,2026-08-21T20:43:22
+LD-2026-03-24-مخيم المية ومية (Mieh Mieh camp),base,"(""Mieh Mieh"" OR ""Miyeh Miyeh"" OR ""Miye Miye"") AND Lebanon",,,2026-08-21T20:44:09
+LD-2026-03-26-بنت جبيل (Bint Jbeil),base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Bent Jbeil"") AND Lebanon",10,,2026-08-21T20:44:10
+LD-2026-03-26-كفررمان (Kfarremen),base,"(""Kfarremen"" OR ""Kfar Remen"" OR ""Kfar Rumman"" OR ""Kfar Roummane"") AND Lebanon",3,,2026-08-21T20:44:14
+LD-2026-03-25-باتوليه (Batouliyeh),base,"(""Batouliyeh"" OR ""Batoulieh"") AND Lebanon",,,2026-08-21T20:44:57
+LD-2026-03-27-Kfartebnit-Arnoun-Nabatieh roundabout,base,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Arnoun"" OR ""Arnoune"") AND Lebanon AND (""Islamic Health"" OR medics OR responder)",2,,2026-08-21T20:45:15
+LD-2026-03-27-السكسكية (Al-Suksukiyeh),base,"(""Suksukiyeh"" OR ""Siksikiyeh"" OR ""Al-Suksukiyeh"") AND Lebanon",0,0,2026-08-21T20:45:18
+LD-2026-03-25-كونين (Kounine),base,"(""Kounine"" OR ""Kawnin"" OR ""Kaounine"") AND Lebanon",,,2026-08-21T20:45:40
+LD-2026-03-27-الصرفند (Al-Sarafand),base,"(""Sarafand"" OR ""Sarafend"" OR ""Al-Sarafand"") AND Lebanon",3,,2026-08-21T20:46:19
+LD-2026-03-27-زوطر الشرقية (Zawtar al-Sharqiya),base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar East"" OR ""Zoutar Charkiye"") AND Lebanon",1,,2026-08-21T20:46:24
+LD-2026-03-27-زوطر الشرقية (Zawtar al-Sharqiya),fallback,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar East"" OR ""Zoutar Charkiye"") AND Lebanon AND (""residence"" OR ""airstrike"")",1,,2026-08-21T20:47:23
+LD-2026-03-27-تحويطة الغدير (Tahwitat al-Ghadir),base,"(""Tahwitat al-Ghadir"" OR ""Tahouitat al-Ghadir"" OR ""Tahwitet el-Ghadir"") AND Lebanon",,,2026-08-21T20:47:57
+LD-2026-03-27-البزالية (Bzaaliyeh),base,"(""Bzaaliyeh"" OR ""Bzaalieh"" OR ""Bzalieh"") AND Lebanon",0,0,2026-08-21T20:47:57
+LD-2026-03-28-Al-Awainat (between Rmeish and Debel),base,"(""Rmeish"" OR ""Rmaich"" OR ""Debel"" OR ""Deble"" OR ""Dibl"" OR ""Awainat"") AND Lebanon",10,,2026-08-21T20:48:24
+LD-2026-03-28-الحنية (Al-Haniyeh),base,"(""Haniyeh"" OR ""Haniye"" OR ""El-Haniyeh"") AND Lebanon",2,,2026-08-21T20:48:26
+LD-2026-03-28-العيشية (Al-Eishiyeh),base,"(""Eishiyeh"" OR ""Aychiyeh"" OR ""Al-Eishiyeh"") AND Lebanon",0,0,2026-08-21T20:49:30
+LD-2026-03-28-جويا (Joya),base,"(""Joya"" OR ""Jouaiya"" OR ""Jwaya"") AND Lebanon",2,,2026-08-21T20:49:31
+LD-2026-03-28-Kfartebnit (Kawthar school road),base,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Kfartibnit"") AND Lebanon",5,,2026-08-21T20:50:13
+LD-2026-03-28-Zawtar al-Sharqiya road,base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar East"" OR ""Zoutar Charkiye"") AND Lebanon",0,0,2026-08-21T20:50:58
+LD-2026-03-28-دير الزهراني (Deir al-Zahrani),base,"(""Deir al-Zahrani"" OR ""Deir ez-Zahrani"") AND Lebanon",10,,2026-08-21T20:51:15
+LD-2026-03-28-معركة (Maaraka),base,"(""Maaraka"" OR ""Maarakeh"" OR ""Maarake"") AND Lebanon",0,2,2026-08-21T20:51:20
+LD-2026-03-28-حداثا (Hidatha),base,"(""Hidatha"" OR ""Hidata"") AND Lebanon",,,2026-08-21T20:51:48
+LD-2026-03-29-بنت جبيل (Bint Jbeil city),base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Bent Jbeil"") AND Lebanon",10,,2026-08-21T20:52:21
+LD-2026-03-29-جويا (Joya),base,"(""Joya"" OR ""Jouaiya"" OR ""Jwaya"") AND Lebanon",2,,2026-08-21T20:52:23
+LD-2026-03-28-كفرتبنيت (Kfartebnit),base,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Kfartibnit"") AND Lebanon",5,,2026-08-21T20:53:15
+LD-2026-03-29-بنت جبيل (Bint Jbeil),base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Bent Jbeil"") AND Lebanon",,,2026-08-21T20:54:04
+LD-2026-03-29-عبا (Aaba),base,"(""Aaba"" OR ""Ebba"" OR ""Aabba"") AND Lebanon",2,,2026-08-21T20:53:17
+LD-2026-03-29-عبا (Aaba),fallback,"(""Aaba"" OR ""Ebba"" OR ""Aabba"") AND Lebanon AND (""residence"" OR ""airstrike"")",0,0,2026-08-21T20:54:18
+"LD-2026-03-30-الرحاب (Al-Rihab, Beirut southern suburb)",base,"(""Rihab"" OR ""Rehab"" OR ""Al-Rihab"") AND Lebanon",1,,2026-08-21T20:54:19
+LD-2026-03-29-شقرا (Shaqra),base,"(""Shaqra"" OR ""Chaqra"" OR ""Shakra"") AND Lebanon",,,2026-08-21T20:54:41
+LD-2026-03-30-الشهابية (Al-Shihabiyeh),base,"(""Shihabiyeh"" OR ""Chihabiyeh"" OR ""Al-Shihabiyeh"") AND Lebanon",0,0,2026-08-21T20:55:23
+LD-2026-03-30-بنت جبيل (Bint Jbeil city),base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Bent Jbeil"") AND Lebanon",10,,2026-08-21T20:55:24
+LD-2026-03-30-حناويه (Hanawiyeh),base,"(""Hanawiyeh"" OR ""Hanawiye"") AND Lebanon",0,0,2026-08-21T20:56:26
+LD-2026-03-30-برعشيت (Bar'ashit),base,"(""Bar'ashit"" OR ""Baraachit"" OR ""Bir'ashit"") AND Lebanon",,,2026-08-21T20:56:57
+LD-2026-03-30-Al-Aamriyeh checkpoint (Qlaile-Tyre road),base,"(""Aamriyeh"" OR ""Al-Aamriyeh"" OR ""Qlaile"" OR ""Qlayle"" OR ""Kleileh"") AND Lebanon",0,0,2026-08-21T20:57:05
+LD-2026-03-31-Ain al-Mazraab road (Tibnine),base,"(""Tibnine"" OR ""Tebnine"" OR ""Tibnin"" OR ""Ain al-Mazraab"") AND Lebanon",0,3,2026-08-21T20:57:28
+LD-2026-03-31-جبشيت (Jbeshit),base,"(""Jbeshit"" OR ""Jbaachit"" OR ""Jbchit"") AND Lebanon",0,0,2026-08-21T20:57:30
+LD-2026-03-31-دير كيفا (Deir Kifa),base,"(""Deir Kifa"" OR ""Dayr Kifa"") AND Lebanon",1,,2026-08-21T20:58:31
+LD-2026-03-31-النجارية (Najariyeh),base,"(""Najariyeh"" OR ""Nejariyeh"" OR ""Al-Najariyeh"") AND Lebanon",0,0,2026-08-21T20:59:06
+LD-2026-03-31-القاسمية (Qasimiyeh),base,"(""Qasimiyeh"" OR ""Kasmieh"" OR ""Al-Qasimiyeh"") AND Lebanon",1,,2026-08-21T20:59:14
+LD-2026-03-31-كفرا (Kfarra),base,"(""Kfarra"" OR ""Kfar Raa"") AND Lebanon",0,0,2026-08-21T20:59:17
+LD-2026-03-31-صريفا (Srifa),base,"(""Srifa"" OR ""Sreifa"" OR ""Sarifa"") AND Lebanon",3,,2026-08-21T21:00:34
+LD-2026-03-31-عبا (Aaba),base,"(""Aaba"" OR ""Ebba"" OR ""Aabba"") AND Lebanon",2,,2026-08-21T21:00:11
+LD-2026-03-31-عبا (Aaba),fallback,"(""Aaba"" OR ""Ebba"" OR ""Aabba"") AND Lebanon AND (""residence"" OR ""airstrike"")",0,0,2026-08-21T21:02:07
+LD-2026-03-05-لبايا (Libaya),base,"(""Libaya"" OR ""Lebaya"") AND Lebanon",0,0,2026-08-21T21:03:33
+LD-2026-03-06-الدوير (Al-Dawir),base,"(""Dawir"" OR ""Douair"" OR ""Ed-Doueir"" OR ""Al-Dawir"") AND Lebanon",1,,2026-08-21T21:03:34
+LD-2026-03-06-تول (Toul),base,"(""Toul"" OR ""Tul"") AND Lebanon",2,,2026-08-21T21:04:37
+LD-2026-03-06-قلاويه (Qalawiyeh),base,"(""Qalawiyeh"" OR ""Qalaouiye"" OR ""Kalawiye"") AND Lebanon",0,0,2026-08-21T21:04:40
+LD-2026-03-06-مجدل سلم (Majdal Selem),base,"(""Majdal Selem"" OR ""Majdal Silm"" OR ""Majdel Selm"") AND Lebanon",8,,2026-08-21T21:05:41
+LD-2026-03-07-زوطر الشرقية (Zawtar al-Sharqiya),base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar East"" OR ""Zoutar Charkiye"") AND Lebanon",2,,2026-08-21T21:05:43
+LD-2026-03-07-شمسطار (Shamsatar),base,"(""Shamsatar"" OR ""Chamsatar"" OR ""Shamstar"") AND Lebanon",0,0,2026-08-21T21:06:45
+LD-2026-03-08-بريتال (Britel),base,"(""Britel"" OR ""Britell"" OR ""Brital"") AND Lebanon",1,,2026-08-21T21:06:46
+LD-2026-03-09-Beit Yahoun-Tibnine road,base,"(""Beit Yahoun"" OR ""Beit Yahoune"" OR ""Tibnine"" OR ""Tebnine"") AND Lebanon",5,,2026-08-21T21:07:48
+LD-2026-03-09-القليعة (Qlaya),base,"(""Qlaya"" OR ""Klaiaa"" OR ""Kleiaa"") AND Lebanon",0,0,2026-08-21T21:07:51
+LD-2026-03-09-النميرية (Al-Nmeiriyeh),base,"(""Nmeiriyeh"" OR ""Numeiriyeh"" OR ""Al-Nmeiriyeh"") AND Lebanon",0,0,2026-08-21T21:08:53
+LD-2026-03-09-شبعا (Shebaa),base,"(""Shebaa"" OR ""Chebaa"" OR ""Shabaa"") AND Lebanon",1,,2026-08-21T21:08:55
+LD-2026-03-10-الحوش (Al-Hosh),base,"(""Hosh"" OR ""El-Hosh"" OR ""Al-Hosh"") AND Lebanon",0,0,2026-08-21T21:09:57
+LD-2026-03-10-زوطر الشرقية (Zawtar al-Sharqiya),base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar East"" OR ""Zoutar Charkiye"") AND Lebanon",1,,2026-08-21T21:09:58
+LD-2026-03-11-شعت (Chaat),base,"(""Chaat"" OR ""Shaat"" OR ""Chaath"") AND Lebanon",0,0,2026-08-21T21:11:02
+LD-2026-03-12-الحدث (Hadath),base,"(""Hadath"" OR ""Hadeth"" OR ""Al-Hadath"") AND Lebanon",10,,2026-08-21T21:11:03
+LD-2026-03-12-عين ابل (Ain Ebel),base,"(""Ain Ebel"" OR ""Ain Ebl"" OR ""Ain Aabel"") AND Lebanon",10,,2026-08-21T21:12:05
+LD-2026-03-12-عين ابل (Ain Ebel),fallback,"(""Ain Ebel"" OR ""Ain Ebl"" OR ""Ain Aabel"") AND Lebanon AND (""airstrike"")",0,0,2026-08-21T21:13:06
+LD-2026-03-13-Kfartebnit-Arnoun road,base,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Arnoun"" OR ""Arnoune"") AND Lebanon",3,,2026-08-21T21:13:07
+LD-2026-03-13-بر الياس (Bar Elias),base,"(""Bar Elias"" OR ""Baar Elias"") AND Lebanon",10,,2026-08-21T21:14:09
+LD-2026-03-13-عبا (Aaba),base,"(""Aaba"" OR ""Ebba"" OR ""Aabba"") AND Lebanon",1,,2026-08-21T21:14:11
+LD-2026-03-13-عبا (Aaba),fallback,"(""Aaba"" OR ""Ebba"" OR ""Aabba"") AND Lebanon AND (""airstrike"" OR ""residence"")",1,,2026-08-21T21:14:12
+LD-2026-03-14-ميفدون (Meifadoun),base,"(""Meifadoun"" OR ""Meifdoun"" OR ""Meifadoune"") AND Lebanon",0,0,2026-08-21T21:15:14
+LD-2026-03-15-الشرحبيل (Sharhabil),base,"(""Sharhabil"" OR ""Charhabil"") AND Lebanon",2,,2026-08-21T21:15:16
+LD-2026-03-15-الشرحبيل (Sharhabil),fallback,"(""Sharhabil"" OR ""Charhabil"") AND Lebanon AND (""apartment"" OR ""airstrike"")",2,,2026-08-21T21:16:15
+LD-2026-03-16-القنطرة (Qantara),base,"(""Qantara"" OR ""Kantara"" OR ""Al-Qantara"") AND Lebanon",10,,2026-08-21T21:16:17
+LD-2026-03-16-كفرصير (Kfarsir),base,"(""Kfarsir"" OR ""Kfar Sir"") AND Lebanon",10,,2026-08-21T21:17:20
+LD-2026-03-18-قناريت (Qanaryet),base,"(""Qanaryet"" OR ""Kanariyet"") AND Lebanon",0,0,2026-08-21T21:17:24
+LD-2026-03-21-زوطر الشرقية (Zawtar al-Sharqiya),base,"(""Zawtar al-Sharqiya"" OR ""Zoutar el-Charkiyeh"" OR ""Zawtar East"" OR ""Zoutar Charkiye"") AND Lebanon",0,2,2026-08-21T21:18:26
+LD-2026-03-24-Jbeshit-Nabatieh highway,base,"(""Jbeshit"" OR ""Jbaachit"") AND Lebanon AND (motorcycle OR drone)",0,0,2026-08-21T21:18:28
+LD-2026-03-24-سلعا (Sal'a),base,"(""Sal'a"" OR ""Salaa"" OR ""Sala'a"") AND Lebanon",3,,2026-08-21T21:19:29
+LD-2026-03-24-كفرتبنيت (Kfartebnit),base,"(""Kfartebnit"" OR ""Kfar Tebnit"" OR ""Kfartibnit"") AND Lebanon",3,,2026-08-21T21:19:32
+LD-2026-03-24-مخيم المية ومية (Mieh Mieh camp),base,"(""Mieh Mieh"" OR ""Miyeh Miyeh"" OR ""Miye Miye"") AND Lebanon",10,,2026-08-21T21:20:34
+LD-2026-03-25-باتوليه (Batouliyeh),base,"(""Batouliyeh"" OR ""Batoulieh"") AND Lebanon",1,,2026-08-21T21:20:37
+LD-2026-03-25-باتوليه (Batouliyeh),fallback,"(""Batouliyeh"" OR ""Batoulieh"") AND Lebanon AND (""airstrike"" OR ""residence"")",0,0,2026-08-21T21:21:39
+LD-2026-03-25-كونين (Kounine),base,"(""Kounine"" OR ""Kawnin"" OR ""Kaounine"") AND Lebanon",0,0,2026-08-21T21:21:41
+LD-2026-03-27-تحويطة الغدير (Tahwitat al-Ghadir),base,"(""Tahwitat al-Ghadir"" OR ""Tahouitat al-Ghadir"" OR ""Tahwitet el-Ghadir"") AND Lebanon",3,,2026-08-21T21:22:42
+LD-2026-03-28-حداثا (Hidatha),base,"(""Hidatha"" OR ""Hidata"") AND Lebanon",0,0,2026-08-21T21:22:45
+LD-2026-03-29-بنت جبيل (Bint Jbeil),base,"(""Bint Jbeil"" OR ""Bint Jbail"" OR ""Bent Jbeil"") AND Lebanon",10,,2026-08-21T21:23:46
+LD-2026-03-29-شقرا (Shaqra),base,"(""Shaqra"" OR ""Chaqra"" OR ""Shakra"") AND Lebanon",3,,2026-08-21T21:23:49
+LD-2026-03-29-شقرا (Shaqra),fallback,"(""Shaqra"" OR ""Chaqra"" OR ""Shakra"") AND Lebanon AND (""airstrike"")",1,,2026-08-21T21:24:49
+LD-2026-03-30-برعشيت (Bar'ashit),base,"(""Bar'ashit"" OR ""Baraachit"" OR ""Bir'ashit"") AND Lebanon",2,,2026-08-21T21:24:50

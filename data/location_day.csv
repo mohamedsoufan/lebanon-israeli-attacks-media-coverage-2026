@@ -1,0 +1,230 @@
+﻿location_day_id,event_date,location,district,governorate,deaths_total,injuries_total,incident_rows_combined,has_unquantified_report,component_incident_ids
+LD-2026-03-03-صديقين (Saddiqine/Siddiqine),2026-03-03,صديقين (Saddiqine/Siddiqine),,South Lebanon,2,0,1,0,INC-0001
+LD-2026-03-03-قبريحا (Qabrikha),2026-03-03,قبريحا (Qabrikha),Marjayoun,Nabatieh,2,2,1,0,INC-0002
+LD-2026-03-04-بعلبك (Baalbek city),2026-03-04,بعلبك (Baalbek city),Baalbek,Baalbek-Hermel,6,15,1,0,INC-0003
+LD-2026-03-04-طريق المطار (Airport Road),2026-03-04,طريق المطار (Airport Road),Baabda,Mount Lebanon,3,6,1,0,INC-0004
+LD-2026-03-04-عرمون / السعديات,2026-03-04,عرمون / السعديات,Aley,Mount Lebanon,6,8,1,0,INC-0005
+LD-2026-03-05-أوتوستراد زحلة الكرك (Zahle-Kark highway),2026-03-05,أوتوستراد زحلة الكرك (Zahle-Kark highway),Zahle,Bekaa,2,2,1,0,INC-0006
+LD-2026-03-05-القليلة (Qlaile),2026-03-05,القليلة (Qlaile),Tyre,South Lebanon,3,0,1,0,INC-0007
+LD-2026-03-05-الكفور (Kfour),2026-03-05,الكفور (Kfour),Nabatieh,Nabatieh,2,0,1,0,INC-0008
+LD-2026-03-05-زوطر / كفرتبنيت,2026-03-05,زوطر / كفرتبنيت,Nabatieh,Nabatieh,3,0,1,0,INC-0009
+LD-2026-03-05-زوطر الشرقية (Zawtar al-Sharqiya),2026-03-05,زوطر الشرقية (Zawtar al-Sharqiya),Nabatieh,Nabatieh,4,0,1,0,INC-0010
+LD-2026-03-05-كفررمان (Kfarremen),2026-03-05,كفررمان (Kfarremen),Nabatieh,Nabatieh,2,0,1,0,INC-0011
+LD-2026-03-05-لبايا (Libaya),2026-03-05,لبايا (Libaya),West Bekaa,Bekaa,2,3,1,0,INC-0012
+LD-2026-03-05-مخيم البداوي (Beddawi camp),2026-03-05,مخيم البداوي (Beddawi camp),Tripoli,North Lebanon,2,1,1,0,INC-0013
+LD-2026-03-05-مشغرة (Mashghara),2026-03-05,مشغرة (Mashghara),West Bekaa,Bekaa,4,1,1,0,INC-0014
+LD-2026-03-05-معركة (Maaraka),2026-03-05,معركة (Maaraka),Tyre,South Lebanon,3,0,1,0,INC-0015
+LD-2026-03-06-الحنية (Al-Haniyeh),2026-03-06,الحنية (Al-Haniyeh),Tyre,South Lebanon,"unknown (unspecified, >=1 per NNA)",0,1,1,INC-0016
+LD-2026-03-06-الدوير (Al-Dawir),2026-03-06,الدوير (Al-Dawir),Nabatieh,Nabatieh,5,9,1,0,INC-0017
+LD-2026-03-06-السعيدة (Saaideh),2026-03-06,السعيدة (Saaideh),Baalbek,Baalbek-Hermel,3,0,1,0,INC-0018
+LD-2026-03-06-الشياح (Chiyah),2026-03-06,الشياح (Chiyah),Baabda,Mount Lebanon,1,3,1,0,INC-0019
+LD-2026-03-06-المروانية (Marwaniyeh),2026-03-06,المروانية (Marwaniyeh),Zahrani,South Lebanon,1,0,1,0,INC-0020
+LD-2026-03-06-النبي شيت (Nabi Chit/Nabi Sheet),2026-03-06,النبي شيت (Nabi Chit/Nabi Sheet),Baalbek,Baalbek-Hermel,10,0,1,0,INC-0021
+LD-2026-03-06-بئر حسن (Bir Hassan),2026-03-06,بئر حسن (Bir Hassan),Baabda,Mount Lebanon,1,0,1,0,INC-0022
+LD-2026-03-06-تول (Toul),2026-03-06,تول (Toul),Nabatieh,Nabatieh,1,0,1,0,INC-0023
+LD-2026-03-06-جبشيت (Jbeshit),2026-03-06,جبشيت (Jbeshit),Nabatieh,Nabatieh,2,0,1,0,INC-0024
+LD-2026-03-06-صريفا (Srifa),2026-03-06,صريفا (Srifa),Tyre,South Lebanon,1,0,1,0,INC-0025
+LD-2026-03-06-صيدا (Sidon),2026-03-06,صيدا (Sidon),Sidon,South Lebanon,5,7,1,0,INC-0026
+LD-2026-03-06-قلاويه (Qalawiyeh),2026-03-06,قلاويه (Qalawiyeh),Bint Jbeil,Nabatieh,2,0,1,0,INC-0027
+LD-2026-03-06-كفررمان (Kfarremen),2026-03-06,كفررمان (Kfarremen),Nabatieh,Nabatieh,2,0,1,0,INC-0028
+LD-2026-03-06-مجدل سلم (Majdal Selem),2026-03-06,مجدل سلم (Majdal Selem),Tyre,South Lebanon,9,0,1,0,INC-0029
+LD-2026-03-07-Sharqiya/Kawthariyet al-Sayad road,2026-03-07,Sharqiya/Kawthariyet al-Sayad road,Nabatieh,Nabatieh,1,0,1,0,INC-0030
+LD-2026-03-07-الشرقية (Sharqiya),2026-03-07,الشرقية (Sharqiya),Nabatieh,Nabatieh,3,0,1,0,INC-0031
+LD-2026-03-07-النبي شيت (Nabi Chit),2026-03-07,النبي شيت (Nabi Chit),Baalbek,Baalbek-Hermel,26,0,1,0,INC-0032
+LD-2026-03-07-النبي شيت (Nabi Chit/Nabi Sheet),2026-03-07,النبي شيت (Nabi Chit/Nabi Sheet),Baalbek,Baalbek-Hermel,16,35,1,0,INC-0033
+LD-2026-03-07-جبال البطم (Jabal al-Botm),2026-03-07,جبال البطم (Jabal al-Botm),Tyre,South Lebanon,3,4,1,0,INC-0034
+LD-2026-03-07-جبشيت (Jbeshit),2026-03-07,جبشيت (Jbeshit),Nabatieh,Nabatieh,9,0,2,0,INC-0035;INC-0036
+LD-2026-03-07-خربة سلم (Khirbet Selm),2026-03-07,خربة سلم (Khirbet Selm),Bint Jbeil,Nabatieh,6,5,1,0,INC-0037
+LD-2026-03-07-زبدين (Zebdine),2026-03-07,زبدين (Zebdine),Nabatieh,Nabatieh,"unknown (unspecified, >=1 per NNA)",0,1,1,INC-0038
+LD-2026-03-07-زوطر الشرقية (Zawtar al-Sharqiya),2026-03-07,زوطر الشرقية (Zawtar al-Sharqiya),Nabatieh,Nabatieh,5,0,1,0,INC-0039
+LD-2026-03-07-شمسطار (Shamsatar),2026-03-07,شمسطار (Shamsatar),Baalbek,Baalbek-Hermel,6,0,1,0,INC-0040
+LD-2026-03-07-صريفا (Srifa),2026-03-07,صريفا (Srifa),Tyre,South Lebanon,2,0,1,0,INC-0041
+LD-2026-03-07-كفرتبنيت (Kfartebnit),2026-03-07,كفرتبنيت (Kfartebnit),Nabatieh,Nabatieh,"unknown (unspecified, >=1 per NNA)",0,1,1,INC-0042
+LD-2026-03-07-كفررمان (Kfarremen),2026-03-07,كفررمان (Kfarremen),Nabatieh,Nabatieh,2,0,1,0,INC-0043
+LD-2026-03-07-كوثرية الرز (Kawthariyet al-Rez),2026-03-07,كوثرية الرز (Kawthariyet al-Rez),Sidon,South Lebanon,5,0,2,0,INC-0044;INC-0045
+LD-2026-03-07-ميفدون (Meifadoun),2026-03-07,ميفدون (Meifadoun),Nabatieh,Nabatieh,5,0,1,0,INC-0046
+LD-2026-03-08-الدوير (Al-Dawir),2026-03-08,الدوير (Al-Dawir),Nabatieh,Nabatieh,6,0,1,0,INC-0047
+LD-2026-03-08-الروشة (Raouche),2026-03-08,الروشة (Raouche),Beirut,Beirut,4,10,1,0,INC-0048
+LD-2026-03-08-الشعيتية (Al-Shaitiyeh),2026-03-08,الشعيتية (Al-Shaitiyeh),Tyre,South Lebanon,"unknown (unspecified, >=1 per NNA)",0,1,1,INC-0049
+LD-2026-03-08-الغازية (Ghazieh),2026-03-08,الغازية (Ghazieh),Sidon,South Lebanon,2,10,1,0,INC-0050
+LD-2026-03-08-بريتال (Britel),2026-03-08,بريتال (Britel),Baalbek,Baalbek-Hermel,1,1,1,0,INC-0051
+LD-2026-03-08-تبنين (Tibnine),2026-03-08,تبنين (Tibnine),Bint Jbeil,Nabatieh,2,6,1,0,INC-0052
+LD-2026-03-08-تفاحتا (Tfahta),2026-03-08,تفاحتا (Tfahta),Sidon,South Lebanon,8,0,1,0,INC-0053
+LD-2026-03-08-صور (Tyre),2026-03-08,صور (Tyre),Tyre,South Lebanon,8,0,1,0,INC-0054
+LD-2026-03-08-صير الغربية (Sir al-Gharbiyeh),2026-03-08,صير الغربية (Sir al-Gharbiyeh),Nabatieh,Nabatieh,10,6,1,0,INC-0055
+LD-2026-03-08-علما الشعب (Alma al-Shaab),2026-03-08,علما الشعب (Alma al-Shaab),Marjayoun,Nabatieh,1,0,1,0,INC-0056
+LD-2026-03-08-عيتيت (Aitit),2026-03-08,عيتيت (Aitit),Nabatieh,Nabatieh,3,0,1,0,INC-0057
+LD-2026-03-08-عين الحلوة (Ain al-Hilweh camp),2026-03-08,عين الحلوة (Ain al-Hilweh camp),Sidon,South Lebanon,1,10,1,0,INC-0058
+LD-2026-03-08-قانا (Qana),2026-03-08,قانا (Qana),Tyre,South Lebanon,4,0,1,0,INC-0059
+LD-2026-03-08-يحمر الشقيف (Yohmor al-Shaqif),2026-03-08,يحمر الشقيف (Yohmor al-Shaqif),Nabatieh,Nabatieh,2,8,1,0,INC-0060
+LD-2026-03-09-Beit Yahoun-Tibnine road,2026-03-09,Beit Yahoun-Tibnine road,Bint Jbeil,Nabatieh,1,1,1,0,INC-0061
+LD-2026-03-09-Bint Jbeil-Aytaroun road,2026-03-09,Bint Jbeil-Aytaroun road,Bint Jbeil,Nabatieh,2,0,1,0,INC-0062
+LD-2026-03-09-الضاحية الجنوبية (Beirut southern suburb/Dahiye),2026-03-09,الضاحية الجنوبية (Beirut southern suburb/Dahiye),Baabda,Mount Lebanon,1,12,1,0,INC-0063
+LD-2026-03-09-الطيري (Al-Tiri),2026-03-09,الطيري (Al-Tiri),Bint Jbeil,Nabatieh,"unknown (unspecified, >=1 per NNA)",0,1,1,INC-0064
+LD-2026-03-09-القليعة (Qlaya),2026-03-09,القليعة (Qlaya),Marjayoun,Nabatieh,1,6,1,0,INC-0065
+LD-2026-03-09-النميرية (Al-Nmeiriyeh),2026-03-09,النميرية (Al-Nmeiriyeh),Nabatieh,Nabatieh,15,2,2,0,INC-0066;INC-0067
+LD-2026-03-09-بيت ليف (Beit Lif),2026-03-09,بيت ليف (Beit Lif),Bint Jbeil,Nabatieh,2,8,1,0,INC-0068
+LD-2026-03-09-تبنين (Tibnine),2026-03-09,تبنين (Tibnine),Bint Jbeil,Nabatieh,2,4,1,0,INC-0069
+LD-2026-03-09-جويا (Joya),2026-03-09,جويا (Joya),Tyre,South Lebanon,7,23,1,0,INC-0070
+LD-2026-03-09-شبعا (Shebaa),2026-03-09,شبعا (Shebaa),Hasbaya,Nabatieh,1,0,1,0,INC-0071
+LD-2026-03-09-شوكين (Shawkin),2026-03-09,شوكين (Shawkin),Nabatieh,Nabatieh,1,8,1,0,INC-0072
+LD-2026-03-09-طير دبا (Tair Debba),2026-03-09,طير دبا (Tair Debba),Tyre,South Lebanon,9,17,1,0,INC-0073
+LD-2026-03-09-كفرتبنيت (Kfartebnit),2026-03-09,كفرتبنيت (Kfartebnit),Nabatieh,Nabatieh,3,0,1,0,INC-0074
+LD-2026-03-10-الأوزاعي (Ouzai),2026-03-10,الأوزاعي (Ouzai),Baabda,Mount Lebanon,1,0,1,0,INC-0075
+LD-2026-03-10-الحوش (Al-Hosh),2026-03-10,الحوش (Al-Hosh),Tyre,South Lebanon,1,8,1,0,INC-0076
+LD-2026-03-10-القليلة (Qlaile),2026-03-10,القليلة (Qlaile),Tyre,South Lebanon,2,0,1,0,INC-0077
+LD-2026-03-10-جويا (Joya),2026-03-10,جويا (Joya),Tyre,South Lebanon,2,0,1,0,INC-0078
+LD-2026-03-10-حناويه (Hanawiyeh),2026-03-10,حناويه (Hanawiyeh),Tyre,South Lebanon,3,2,1,0,INC-0079
+LD-2026-03-10-زوطر الشرقية (Zawtar al-Sharqiya),2026-03-10,زوطر الشرقية (Zawtar al-Sharqiya),Nabatieh,Nabatieh,2,0,1,0,INC-0080
+LD-2026-03-10-قانا (Qana),2026-03-10,قانا (Qana),Tyre,South Lebanon,5,5,1,0,INC-0081
+LD-2026-03-10-قلاويه (Qalawiyeh),2026-03-10,قلاويه (Qalawiyeh),Bint Jbeil,Nabatieh,4,0,1,0,INC-0082
+LD-2026-03-10-كفرجوز (Kfarjouz),2026-03-10,كفرجوز (Kfarjouz),Nabatieh,Nabatieh,1,0,1,0,INC-0083
+LD-2026-03-11-Habbouch-Arabsalim area,2026-03-11,Habbouch-Arabsalim area,Nabatieh,Nabatieh,2,0,1,0,INC-0084
+LD-2026-03-11-الرملة البيضاء (Ramlet al-Baida),2026-03-11,الرملة البيضاء (Ramlet al-Baida),Beirut,Beirut,12,28,1,0,INC-0085
+LD-2026-03-11-الشرقية (Sharqiya),2026-03-11,الشرقية (Sharqiya),Nabatieh,Nabatieh,3,0,1,0,INC-0086
+LD-2026-03-11-الشهابية (Al-Shihabiyeh),2026-03-11,الشهابية (Al-Shihabiyeh),Tyre,South Lebanon,7,11,1,0,INC-0087
+LD-2026-03-11-النبطية (Nabatieh city),2026-03-11,النبطية (Nabatieh city),Nabatieh,Nabatieh,1,0,1,0,INC-0088
+LD-2026-03-11-برج الشمالي (Burj al-Shamali),2026-03-11,برج الشمالي (Burj al-Shamali),Tyre,South Lebanon,4,9,1,0,INC-0089
+LD-2026-03-11-برعشيت (Bar'ashit),2026-03-11,برعشيت (Bar'ashit),Bint Jbeil,Nabatieh,1,0,1,0,INC-0090
+LD-2026-03-11-بنت جبيل (Bint Jbeil city),2026-03-11,بنت جبيل (Bint Jbeil city),Bint Jbeil,Nabatieh,3,0,1,0,INC-0092
+LD-2026-03-11-بنت جبيل (Bint Jbeil),2026-03-11,بنت جبيل (Bint Jbeil),Bint Jbeil,Nabatieh,3,0,1,0,INC-0091
+LD-2026-03-11-تبنين (Tibnine),2026-03-11,تبنين (Tibnine),Bint Jbeil,Nabatieh,8,0,1,0,INC-0093
+LD-2026-03-11-تمنين التحتا (Tamnin al-Tahta),2026-03-11,تمنين التحتا (Tamnin al-Tahta),Baalbek,Baalbek-Hermel,8,17,1,0,INC-0094
+LD-2026-03-11-دير أنطار (Deir Antar),2026-03-11,دير أنطار (Deir Antar),Bint Jbeil,Nabatieh,2,6,1,0,INC-0095
+LD-2026-03-11-زلايا (Zalaya),2026-03-11,زلايا (Zalaya),West Bekaa,Bekaa,1,2,1,0,INC-0096
+LD-2026-03-11-شعت (Chaat),2026-03-11,شعت (Chaat),Baalbek,Baalbek-Hermel,8,3,1,0,INC-0097
+LD-2026-03-11-شقرا (Shaqra),2026-03-11,شقرا (Shaqra),Nabatieh,Nabatieh,2,0,1,0,INC-0098
+LD-2026-03-11-كفرتبنيت (Kfartebnit),2026-03-11,كفرتبنيت (Kfartebnit),Nabatieh,Nabatieh,1,0,1,0,INC-0099
+LD-2026-03-11-معركة (Maaraka junction),2026-03-11,معركة (Maaraka junction),Tyre,South Lebanon,2,14,1,0,INC-0100
+LD-2026-03-12-أركي (Arki),2026-03-12,أركي (Arki),Sidon,South Lebanon,9,7,1,0,INC-0101
+LD-2026-03-12-الحدث (Hadath),2026-03-12,الحدث (Hadath),Baabda,Mount Lebanon,2,0,1,0,INC-0102
+LD-2026-03-12-النبطية الفوقا (Nabatieh al-Fawqa),2026-03-12,النبطية الفوقا (Nabatieh al-Fawqa),Nabatieh,Nabatieh,1,0,1,0,INC-0103
+LD-2026-03-12-باريش (Barish),2026-03-12,باريش (Barish),Tyre,South Lebanon,3,0,1,0,INC-0104
+LD-2026-03-12-بنت جبيل (Bint Jbeil),2026-03-12,بنت جبيل (Bint Jbeil),Bint Jbeil,Nabatieh,3,0,1,0,INC-0105
+LD-2026-03-12-دير أنطار (Deir Antar),2026-03-12,دير أنطار (Deir Antar),Bint Jbeil,Nabatieh,1,0,1,0,INC-0106
+LD-2026-03-12-عرمون (Aramoun),2026-03-12,عرمون (Aramoun),Aley,Mount Lebanon,5,7,1,0,INC-0107
+LD-2026-03-12-عين ابل (Ain Ebel),2026-03-12,عين ابل (Ain Ebel),Bint Jbeil,Nabatieh,3,0,1,0,INC-0108
+LD-2026-03-12-معركة البص (Maaraka al-Bass junction),2026-03-12,معركة البص (Maaraka al-Bass junction),Tyre,South Lebanon,2,0,1,0,INC-0109
+LD-2026-03-13-Kfartebnit-Arnoun road,2026-03-13,Kfartebnit-Arnoun road,Nabatieh,Nabatieh,1,0,1,0,INC-0110
+LD-2026-03-13-الجناح (Jnah),2026-03-13,الجناح (Jnah),Beirut,Beirut,1,0,1,0,INC-0111
+LD-2026-03-13-الصوانة (Al-Sawwaneh),2026-03-13,الصوانة (Al-Sawwaneh),Tyre,South Lebanon,2,5,1,0,INC-0112
+LD-2026-03-13-الغازية (Ghazieh),2026-03-13,الغازية (Ghazieh),Sidon,South Lebanon,2,0,1,0,INC-0113
+LD-2026-03-13-الفوار (Al-Fawwar),2026-03-13,الفوار (Al-Fawwar),Sidon,South Lebanon,8,9,1,0,INC-0114
+LD-2026-03-13-النبطية (Nabatieh city),2026-03-13,النبطية (Nabatieh city),Nabatieh,Nabatieh,7,5,1,0,INC-0115
+LD-2026-03-13-بر الياس (Bar Elias),2026-03-13,بر الياس (Bar Elias),Zahle,Bekaa,2,3,1,0,INC-0116
+LD-2026-03-13-برج قلاويه (Burj Qalawiyeh),2026-03-13,برج قلاويه (Burj Qalawiyeh),Bint Jbeil,Nabatieh,1,0,1,0,INC-0117
+LD-2026-03-13-بنت جبيل (Bint Jbeil city),2026-03-13,بنت جبيل (Bint Jbeil city),Bint Jbeil,Nabatieh,3,0,1,0,INC-0118
+LD-2026-03-13-شبعا (Shebaa),2026-03-13,شبعا (Shebaa),Hasbaya,Nabatieh,2,0,1,0,INC-0119
+LD-2026-03-13-طريق الشعيتية (Al-Shaitiyeh road),2026-03-13,طريق الشعيتية (Al-Shaitiyeh road),Tyre,South Lebanon,1,0,1,0,INC-0120
+LD-2026-03-13-عبا (Aaba),2026-03-13,عبا (Aaba),Nabatieh,Nabatieh,1,1,1,0,INC-0121
+LD-2026-03-13-ياطر (Yatar),2026-03-13,ياطر (Yatar),Bint Jbeil,Nabatieh,1,0,1,0,INC-0122
+LD-2026-03-14-القطراني (Qatrani),2026-03-14,القطراني (Qatrani),Jezzine,South Lebanon,5,6,1,0,INC-0123
+LD-2026-03-14-القنطرة (Qantara),2026-03-14,القنطرة (Qantara),Marjayoun,Nabatieh,4,0,1,0,INC-0124
+LD-2026-03-14-النبعة (Nabaa),2026-03-14,النبعة (Nabaa),Matn,Mount Lebanon,1,4,1,0,INC-0125
+LD-2026-03-14-برج قلاويه (Burj Qalawiyeh),2026-03-14,برج قلاويه (Burj Qalawiyeh),Bint Jbeil,Nabatieh,12,0,1,0,INC-0126
+LD-2026-03-14-حارة صيدا (Harit Saida),2026-03-14,حارة صيدا (Harit Saida),Sidon,South Lebanon,4,2,1,0,INC-0127
+LD-2026-03-14-مجدل سلم (Majdal Selem),2026-03-14,مجدل سلم (Majdal Selem),Marjayoun,Nabatieh,1,2,1,0,INC-0128
+LD-2026-03-14-ميفدون (Meifadoun),2026-03-14,ميفدون (Meifadoun),Nabatieh,Nabatieh,4,5,1,0,INC-0129
+LD-2026-03-15-الشرحبيل (Sharhabil),2026-03-15,الشرحبيل (Sharhabil),Sidon,South Lebanon,1,0,1,0,INC-0130
+LD-2026-03-15-طريق النبطية الفوقا (Nabatieh al-Fawqa road),2026-03-15,طريق النبطية الفوقا (Nabatieh al-Fawqa road),Nabatieh,Nabatieh,1,0,1,0,INC-0131
+LD-2026-03-15-عيتيت (Aitit),2026-03-15,عيتيت (Aitit),Nabatieh,Nabatieh,3,3,1,0,INC-0132
+LD-2026-03-15-مجدل سلم (Majdal Selem),2026-03-15,مجدل سلم (Majdal Selem),Marjayoun,Nabatieh,2,4,1,0,INC-0133
+LD-2026-03-16-القنطرة (Qantara),2026-03-16,القنطرة (Qantara),Marjayoun,Nabatieh,4,0,1,0,INC-0134
+LD-2026-03-16-كفرصير (Kfarsir),2026-03-16,كفرصير (Kfarsir),Nabatieh,Nabatieh,3,1,1,0,INC-0135
+LD-2026-03-16-معركة (Maaraka junction),2026-03-16,معركة (Maaraka junction),Tyre,South Lebanon,1,16,1,0,INC-0136
+LD-2026-03-16-ياطر (Yatar),2026-03-16,ياطر (Yatar),Bint Jbeil,Nabatieh,1,0,1,0,INC-0137
+LD-2026-03-17-Aaba-Jbeshit area,2026-03-17,Aaba-Jbeshit area,Nabatieh,Nabatieh,1,1,1,0,INC-0138
+LD-2026-03-17-Zebdine-Nabatieh road,2026-03-17,Zebdine-Nabatieh road,Nabatieh,Nabatieh,2,0,1,0,INC-0139
+LD-2026-03-17-الجميجمة (Al-Jmeijmeh),2026-03-17,الجميجمة (Al-Jmeijmeh),Tyre,South Lebanon,2,0,1,0,INC-0140
+LD-2026-03-17-السلطانية (Al-Sultaniyeh),2026-03-17,السلطانية (Al-Sultaniyeh),Bint Jbeil,Nabatieh,1,0,1,0,INC-0141
+LD-2026-03-17-الغازية (Ghazieh),2026-03-17,الغازية (Ghazieh),Sidon,South Lebanon,3,5,1,0,INC-0142
+LD-2026-03-17-بعلبك (Baalbek city),2026-03-17,بعلبك (Baalbek city),Baalbek,Baalbek-Hermel,4,7,1,0,INC-0143
+LD-2026-03-17-بنت جبيل (Bint Jbeil city),2026-03-17,بنت جبيل (Bint Jbeil city),Bint Jbeil,Nabatieh,3,0,1,0,INC-0144
+LD-2026-03-17-حاروف (Haroof),2026-03-17,حاروف (Haroof),Nabatieh,Nabatieh,3,0,1,0,INC-0145
+LD-2026-03-17-طريق المطار (Airport Road),2026-03-17,طريق المطار (Airport Road),Baabda,Mount Lebanon,1,9,1,0,INC-0146
+LD-2026-03-17-قعقعية الجسر (Qaaqaait al-Jisr),2026-03-17,قعقعية الجسر (Qaaqaait al-Jisr),Nabatieh,Nabatieh,1,0,1,0,INC-0147
+LD-2026-03-18-القليعة (Qlaya),2026-03-18,القليعة (Qlaya),Marjayoun,Nabatieh,2,0,1,0,INC-0148
+LD-2026-03-18-برج قلاويه (Burj Qalawiyeh),2026-03-18,برج قلاويه (Burj Qalawiyeh),Bint Jbeil,Nabatieh,1,0,1,0,INC-0149
+LD-2026-03-18-بيروت (Beirut),2026-03-18,بيروت (Beirut),Beirut,Beirut,10,27,1,0,INC-0150
+LD-2026-03-18-جبشيت (Jbeshit),2026-03-18,جبشيت (Jbeshit),Nabatieh,Nabatieh,4,0,1,0,INC-0151
+LD-2026-03-18-حبوش (Habbouch),2026-03-18,حبوش (Habbouch),Nabatieh,Nabatieh,3,1,1,0,INC-0152
+LD-2026-03-18-خربة سلم (Khirbet Selm),2026-03-18,خربة سلم (Khirbet Selm),Bint Jbeil,Nabatieh,2,0,1,0,INC-0153
+LD-2026-03-18-دير الزهراني (Deir al-Zahrani),2026-03-18,دير الزهراني (Deir al-Zahrani),Zahrani,South Lebanon,2,7,1,0,INC-0154
+LD-2026-03-18-سحمر (Sohmor),2026-03-18,سحمر (Sohmor),West Bekaa,Bekaa,4,6,2,0,INC-0155;INC-0156
+LD-2026-03-18-شعت (Chaat),2026-03-18,شعت (Chaat),Baalbek,Baalbek-Hermel,6,0,1,0,INC-0157
+LD-2026-03-18-صيدا (Sidon Corniche),2026-03-18,صيدا (Sidon Corniche),Sidon,South Lebanon,2,0,1,0,INC-0158
+LD-2026-03-18-قناريت (Qanaryet),2026-03-18,قناريت (Qanaryet),Sidon,South Lebanon,3,0,1,0,INC-0159
+LD-2026-03-18-ميفدون (Meifadoun),2026-03-18,ميفدون (Meifadoun),Nabatieh,Nabatieh,1,9,1,0,INC-0160
+LD-2026-03-19-البازورية (Bazouriyeh),2026-03-19,البازورية (Bazouriyeh),Tyre,South Lebanon,1,2,1,0,INC-0161
+LD-2026-03-19-عدلون (Adloun),2026-03-19,عدلون (Adloun),Sidon,South Lebanon,2,0,1,0,INC-0162
+LD-2026-03-20-الغندورية (Al-Ghandouriyeh),2026-03-20,الغندورية (Al-Ghandouriyeh),Bint Jbeil,Nabatieh,1,2,1,0,INC-0163
+LD-2026-03-20-بافيله (Bafiliyeh),2026-03-20,بافيله (Bafiliyeh),Tyre,South Lebanon,2,1,1,0,INC-0164
+LD-2026-03-21-زوطر الشرقية (Zawtar al-Sharqiya),2026-03-21,زوطر الشرقية (Zawtar al-Sharqiya),Nabatieh,Nabatieh,1,0,1,0,INC-0165
+LD-2026-03-22-السلطانية (Al-Sultaniyeh),2026-03-22,السلطانية (Al-Sultaniyeh),Bint Jbeil,Nabatieh,3,3,1,0,INC-0166
+LD-2026-03-22-الصوانة (Al-Sawwaneh),2026-03-22,الصوانة (Al-Sawwaneh),Marjayoun,Nabatieh,1,4,1,0,INC-0167
+LD-2026-03-22-حبوش (Habbouch),2026-03-22,حبوش (Habbouch),Nabatieh,Nabatieh,1,0,1,0,INC-0168
+LD-2026-03-23-الحازمية (Hazmieh),2026-03-23,الحازمية (Hazmieh),Baabda,Mount Lebanon,1,0,1,0,INC-0169
+LD-2026-03-23-الحنية (Al-Haniyeh),2026-03-23,الحنية (Al-Haniyeh),Tyre,South Lebanon,1,1,1,0,INC-0170
+LD-2026-03-23-الشهابية (Al-Shihabiyeh),2026-03-23,الشهابية (Al-Shihabiyeh),Tyre,South Lebanon,1,4,1,0,INC-0171
+LD-2026-03-23-عيتيت (Aitit),2026-03-23,عيتيت (Aitit),Nabatieh,Nabatieh,1,0,1,0,INC-0172
+LD-2026-03-23-مجدل سلم (Majdal Selem),2026-03-23,مجدل سلم (Majdal Selem),Marjayoun,Nabatieh,1,2,1,0,INC-0173
+LD-2026-03-24-Adloun-Abu al-Aswad area,2026-03-24,Adloun-Abu al-Aswad area,Sidon,South Lebanon,2,2,1,0,INC-0174
+LD-2026-03-24-Burj al-Shamali road,2026-03-24,Burj al-Shamali road,Tyre,South Lebanon,1,0,1,0,INC-0175
+LD-2026-03-24-Habbouch-Nabatieh highway,2026-03-24,Habbouch-Nabatieh highway,Nabatieh,Nabatieh,1,0,1,0,INC-0176
+LD-2026-03-24-Jbeshit-Nabatieh highway,2026-03-24,Jbeshit-Nabatieh highway,Nabatieh,Nabatieh,1,1,1,0,INC-0177
+LD-2026-03-24-الشبريحة (Shabriha junction),2026-03-24,الشبريحة (Shabriha junction),Tyre,South Lebanon,1,0,1,0,INC-0178
+LD-2026-03-24-النبطية (Nabatieh city),2026-03-24,النبطية (Nabatieh city),Nabatieh,Nabatieh,2,0,1,0,INC-0179
+LD-2026-03-24-بشامون (Bshamoun),2026-03-24,بشامون (Bshamoun),Aley,Mount Lebanon,3,4,1,0,INC-0180
+LD-2026-03-24-حبوش (Habbouch),2026-03-24,حبوش (Habbouch),Nabatieh,Nabatieh,3,18,1,0,INC-0181
+LD-2026-03-24-حلتا (Halta),2026-03-24,حلتا (Halta),Hasbaya,Nabatieh,1,1,1,0,INC-0182
+LD-2026-03-24-سلعا (Sal'a),2026-03-24,سلعا (Sal'a),Tyre,South Lebanon,2,5,1,0,INC-0183
+LD-2026-03-24-صريفا (Srifa),2026-03-24,صريفا (Srifa),Tyre,South Lebanon,3,0,1,0,INC-0184
+LD-2026-03-24-عدلون (Adloun),2026-03-24,عدلون (Adloun),Sidon,South Lebanon,4,1,1,0,INC-0185
+LD-2026-03-24-كفرتبنيت (Kfartebnit),2026-03-24,كفرتبنيت (Kfartebnit),Nabatieh,Nabatieh,1,0,1,0,INC-0186
+LD-2026-03-24-كونين (Kounine),2026-03-24,كونين (Kounine),Bint Jbeil,Nabatieh,1,0,1,0,INC-0187
+LD-2026-03-24-محرونة (Mahrouneh),2026-03-24,محرونة (Mahrouneh),Zahrani,South Lebanon,1,0,1,0,INC-0188
+LD-2026-03-24-مخيم المية ومية (Mieh Mieh camp),2026-03-24,مخيم المية ومية (Mieh Mieh camp),Sidon,South Lebanon,2,4,1,0,INC-0189
+LD-2026-03-25-Zawtar al-Sharqiya/al-Gharbiya area,2026-03-25,Zawtar al-Sharqiya/al-Gharbiya area,Nabatieh,Nabatieh,2,0,1,0,INC-0190
+LD-2026-03-25-البيسارية (Beisariyeh),2026-03-25,البيسارية (Beisariyeh),Nabatieh,Nabatieh,2,0,1,0,INC-0191
+LD-2026-03-25-باتوليه (Batouliyeh),2026-03-25,باتوليه (Batouliyeh),Tyre,South Lebanon,1,1,1,0,INC-0192
+LD-2026-03-25-حاروف (Haroof),2026-03-25,حاروف (Haroof),Nabatieh,Nabatieh,2,8,1,0,INC-0193
+LD-2026-03-25-كونين (Kounine),2026-03-25,كونين (Kounine),Bint Jbeil,Nabatieh,3,4,1,0,INC-0194
+LD-2026-03-26-بنت جبيل (Bint Jbeil),2026-03-26,بنت جبيل (Bint Jbeil),Bint Jbeil,Nabatieh,3,0,1,0,INC-0195
+LD-2026-03-26-كفررمان (Kfarremen),2026-03-26,كفررمان (Kfarremen),Bint Jbeil,Nabatieh,2,8,1,0,INC-0196
+LD-2026-03-27-Kfartebnit-Arnoun-Nabatieh roundabout,2026-03-27,Kfartebnit-Arnoun-Nabatieh roundabout,Nabatieh,Nabatieh,2,0,1,0,INC-0197
+LD-2026-03-27-البزالية (Bzaaliyeh),2026-03-27,البزالية (Bzaaliyeh),Baalbek,Baalbek-Hermel,1,7,1,0,INC-0198
+LD-2026-03-27-السكسكية (Al-Suksukiyeh),2026-03-27,السكسكية (Al-Suksukiyeh),Sidon,South Lebanon,6,17,1,0,INC-0199
+LD-2026-03-27-الصرفند (Al-Sarafand),2026-03-27,الصرفند (Al-Sarafand),Sidon,South Lebanon,1,17,1,0,INC-0200
+LD-2026-03-27-تحويطة الغدير (Tahwitat al-Ghadir),2026-03-27,تحويطة الغدير (Tahwitat al-Ghadir),Baabda,Mount Lebanon,2,0,1,0,INC-0201
+LD-2026-03-27-زوطر الشرقية (Zawtar al-Sharqiya),2026-03-27,زوطر الشرقية (Zawtar al-Sharqiya),Nabatieh,Nabatieh,2,0,1,0,INC-0202
+LD-2026-03-28-Al-Awainat (between Rmeish and Debel),2026-03-28,Al-Awainat (between Rmeish and Debel),Bint Jbeil,Nabatieh,2,0,1,0,INC-0203
+LD-2026-03-28-Kfartebnit (Kawthar school road),2026-03-28,Kfartebnit (Kawthar school road),Nabatieh,Nabatieh,1,0,1,0,INC-0204
+LD-2026-03-28-Zawtar al-Sharqiya road,2026-03-28,Zawtar al-Sharqiya road,Nabatieh,Nabatieh,"unknown (unspecified, >=1 per NNA)",0,1,1,INC-0205
+LD-2026-03-28-الحنية (Al-Haniyeh),2026-03-28,الحنية (Al-Haniyeh),Tyre,South Lebanon,7,9,1,0,INC-0206
+LD-2026-03-28-العيشية (Al-Eishiyeh),2026-03-28,العيشية (Al-Eishiyeh),Jezzine,South Lebanon,2,0,1,0,INC-0207
+LD-2026-03-28-جويا (Joya),2026-03-28,جويا (Joya),Tyre,South Lebanon,1,0,1,0,INC-0208
+LD-2026-03-28-حداثا (Hidatha),2026-03-28,حداثا (Hidatha),Tyre,South Lebanon,1,0,1,0,INC-0209
+LD-2026-03-28-دير الزهراني (Deir al-Zahrani),2026-03-28,دير الزهراني (Deir al-Zahrani),Zahrani,South Lebanon,7,8,1,0,INC-0210
+LD-2026-03-28-طريق جزين (Jezzine road),2026-03-28,طريق جزين (Jezzine road),Jezzine,South Lebanon,4,0,1,0,INC-0211
+LD-2026-03-28-كفرتبنيت (Kfartebnit),2026-03-28,كفرتبنيت (Kfartebnit),Nabatieh,Nabatieh,1,4,1,0,INC-0212
+LD-2026-03-28-معركة (Maaraka),2026-03-28,معركة (Maaraka),Tyre,South Lebanon,1,1,1,0,INC-0213
+LD-2026-03-29-بنت جبيل (Bint Jbeil city),2026-03-29,بنت جبيل (Bint Jbeil city),Bint Jbeil,Nabatieh,1,0,1,0,INC-0215
+LD-2026-03-29-بنت جبيل (Bint Jbeil),2026-03-29,بنت جبيل (Bint Jbeil),Bint Jbeil,Nabatieh,2,0,1,0,INC-0214
+LD-2026-03-29-جويا (Joya),2026-03-29,جويا (Joya),Tyre,South Lebanon,2,3,1,0,INC-0216
+LD-2026-03-29-شقرا (Shaqra),2026-03-29,شقرا (Shaqra),Bint Jbeil,Nabatieh,5,2,1,0,INC-0217
+LD-2026-03-29-عبا (Aaba),2026-03-29,عبا (Aaba),Nabatieh,Nabatieh,2,0,1,0,INC-0218
+LD-2026-03-30-Al-Aamriyeh checkpoint (Qlaile-Tyre road),2026-03-30,Al-Aamriyeh checkpoint (Qlaile-Tyre road),Tyre,South Lebanon,1,5,1,0,INC-0219
+"LD-2026-03-30-الرحاب (Al-Rihab, Beirut southern suburb)",2026-03-30,"الرحاب (Al-Rihab, Beirut southern suburb)",Baabda,Mount Lebanon,1,17,1,0,INC-0220
+LD-2026-03-30-الشهابية (Al-Shihabiyeh),2026-03-30,الشهابية (Al-Shihabiyeh),Tyre,South Lebanon,4,0,1,0,INC-0221
+LD-2026-03-30-برعشيت (Bar'ashit),2026-03-30,برعشيت (Bar'ashit),Bint Jbeil,Nabatieh,1,1,1,0,INC-0222
+LD-2026-03-30-بنت جبيل (Bint Jbeil city),2026-03-30,بنت جبيل (Bint Jbeil city),Bint Jbeil,Nabatieh,4,0,1,0,INC-0223
+LD-2026-03-30-حناويه (Hanawiyeh),2026-03-30,حناويه (Hanawiyeh),Tyre,South Lebanon,"unknown (unspecified, >=1 per NNA)",0,1,1,INC-0224
+LD-2026-03-31-Ain al-Mazraab road (Tibnine),2026-03-31,Ain al-Mazraab road (Tibnine),Bint Jbeil,Nabatieh,1,0,1,0,INC-0225
+LD-2026-03-31-القاسمية (Qasimiyeh),2026-03-31,القاسمية (Qasimiyeh),Tyre,South Lebanon,2,3,1,0,INC-0226
+LD-2026-03-31-النجارية (Najariyeh),2026-03-31,النجارية (Najariyeh),Sidon,South Lebanon,4,0,1,0,INC-0227
+LD-2026-03-31-جبشيت (Jbeshit),2026-03-31,جبشيت (Jbeshit),Nabatieh,Nabatieh,2,0,1,0,INC-0228
+LD-2026-03-31-خلدة (Khaldeh),2026-03-31,خلدة (Khaldeh),Chouf,Mount Lebanon,2,3,1,0,INC-0229
+LD-2026-03-31-دير كيفا (Deir Kifa),2026-03-31,دير كيفا (Deir Kifa),Bint Jbeil,Nabatieh,2,0,1,0,INC-0230
+LD-2026-03-31-صريفا (Srifa),2026-03-31,صريفا (Srifa),Tyre,South Lebanon,3,19,1,0,INC-0231
+LD-2026-03-31-عبا (Aaba),2026-03-31,عبا (Aaba),Nabatieh,Nabatieh,1,0,1,0,INC-0232
+LD-2026-03-31-كفرا (Kfarra),2026-03-31,كفرا (Kfarra),Bint Jbeil,Nabatieh,3,2,2,0,INC-0233;INC-0234

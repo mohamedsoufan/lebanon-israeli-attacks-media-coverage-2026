@@ -1,0 +1,6 @@
+article_id,include,exclusion_reason,event_date,event_time_if_known,location_raw,town,district,governorate,deaths_reported,injuries_reported,attack_type,target_description,preliminary_or_final,location_ambiguous,casualty_count_ambiguous,notes
+424696,0,"Event occurred 2026-04-01, outside the study period (March 2-31)",,,,,,,,,,,,,,
+428138,0,"Event occurred 2026-04-02 ('dawn today', explicit in text), outside the study period (March 2-31)",,,,,,,,,,,,,,
+428397,0,"MoPH toll for the same April 2 Al-Ramadiyeh strike as 428138's context - outside the study period (March 2-31)",,,,,,,,,,,,,,
+428709,0,"Event occurred 2026-04-02, outside the study period (March 2-31)",,,,,,,,,,,,,,
+429452,0,"General daily+cumulative toll bulletin (MoPH), not a single-incident report",,,,,,,,,,,,,,
