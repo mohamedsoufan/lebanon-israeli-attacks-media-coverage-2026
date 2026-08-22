@@ -1,0 +1,7 @@
+requests>=2.32
+beautifulsoup4>=4.14
+python-dotenv>=1.2
+mediacloud>=5.1
+pandas>=2.2
+numpy>=1.26
+statsmodels>=0.14
